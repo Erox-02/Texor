@@ -161,3 +161,8 @@ ok connected all the 5v of the led , also connected gnd to all the leds in matri
 
 oh connected the rows and next led data line :
 
+![](assets/uf.png)
+
+done for now
+
+**Total time spent: 3 hours**
