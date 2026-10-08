@@ -88,3 +88,76 @@ OK I GOT A HOLY IDEA , i can use multiple `STM32F030C6T6` and then make the keyb
 k enough gonna do the esp + switch matrix connection tomorrow .
 
 **Total time spent: 3 hours**
+
+# Oct 8
+
+today i though i wd place the keys on right position so i went ahead and used open source tools to make the json ladout and then when i used kbplacer on my pcb ,
+boom:
+![](assets/errr.png)
+
+and then i used relative diode , then sw1 not found lol , then i fixed and upgraded the pcb , boom:
+```
+Traceback (most recent call last):
+  File "/home/erox/.local/share/kicad/10.0/3rdparty//plugins/com_github_adamws_kicad-kbplacer/kbplacer_plugin_action.py", line 100, in Run
+    self.__run()
+    ~~~~~~~~~~^^
+  File "/home/erox/.local/share/kicad/10.0/3rdparty//plugins/com_github_adamws_kicad-kbplacer/kbplacer_plugin_action.py", line 84, in __run
+    run_from_gui(self.pcb_file_path, gui_state)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/erox/.local/share/kicad/10.0/3rdparty//plugins/com_github_adamws_kicad-kbplacer/kbplacer_plugin.py", line 175, in run_from_gui
+    return run_board(settings)
+  File "/home/erox/.local/share/kicad/10.0/3rdparty//plugins/com_github_adamws_kicad-kbplacer/kbplacer_plugin.py", line 119, in run_board
+    placer.run(
+    ~~~~~~~~~~^
+        settings.layout_path,
+        ^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+        encoder_adjustment=settings.encoder_adjustment,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/erox/.local/share/kicad/10.0/3rdparty//plugins/com_github_adamws_kicad-kbplacer/key_placer.py", line 1255, in run
+    self.remove_dangling_tracks()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/erox/.local/share/kicad/10.0/3rdparty//plugins/com_github_adamws_kicad-kbplacer/key_placer.py", line 559, in remove_dangling_tracks
+    for track in self.board.GetTracks():
+                 ~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/site-packages/pcbnew.py", line 22181, in GetTracks
+    def GetTracks(self):              return list(self.Tracks())
+                                             ~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/pcbnew.py", line 12810, in __iter__
+    item = it.next()  # throws StopIteration when iterator reached the end.
+           ^^^^^^^
+AttributeError: 'SwigPyIterator' object has no attribute 'next'
+```
+
+its a internal err even worse , heh fixed tht err , then the keyboard wasnt accepting the diodes but did the leds so  i later interchanged the names and froze the leds lol and now its done 
+
+![](assets/kdone.png)
+
+wait i named the file kdone , did the kde spirit possesed me for a sec? i dont use kde anyways .
+
+ok done i plugged the matrix pins correctly also added test point to boot into the bootloader i mean i just connected gpio0 to a test point also avoided all the strapping pins and psram pins , wait i forgot gpio3
+
+![](assets/esp_sch.png)
+
+lemme fix the gpio3
+
+done 
+
+![](assets/esp-sch.png)
+
+bruh still placed a pin away ok fixed.
+
+ohh wait i forgot eeprom , i avoided psram but eepromm ahhhhhhh , wait my pins arent connected to those pins at all hell yeah  i knew it .
+
+oh r7 was conflicting , so i just put tht frm io26 to io48 done no more prob . 
+
+ok then i added a 220 ohm res before the 1st led and the logic ic , now all is left to connect the switches and a lot of oh i barely missed tht .
+
+ok connected all the 5v of the led , also connected gnd to all the leds in matrix uf 
+
+![](assets/gnd_conn.png)
+
+oh connected the rows and next led data line :
+
