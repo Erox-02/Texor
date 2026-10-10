@@ -236,3 +236,13 @@ done 3 packs of these will do the work and black is silent + clicky so its the b
 ok now i have 2 tasks firmware + 3d case , i obviously will use rust(esp-hal back) for firmware but i absolutely suck in 3d .
 
 **Total time spent: 4.5 hours**
+
+# Oct 11
+
+ok today gonna do the firmware 
+
+today my goal is js to write a basic firmware for basic hid also the rgb 2d plane and the wave like cool rgb uplift tht i thought at first the very reason to build this keyboard 
+
+started with the main.rs , nothing serious js put no_std and no_main and mod'd the fs i have currently.
+
+ok io.rs done , js mapped which gpios i am using and for which pins , easy peasy done 
