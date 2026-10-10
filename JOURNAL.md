@@ -166,3 +166,73 @@ oh connected the rows and next led data line :
 done for now
 
 **Total time spent: 3 hours**
+
+# Oct 10
+
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+i forgot to save before closing kicad so half of progress tht i made on 8th oct is gone , i skipped 9th oct in tht trauma but a small price to pay imma gonna crank shift+s a few hundred times before closing kicad next time , oh its my hyprland's fault , it just pkills the whole window so kicad got cut before saving so i need to compensate tht day .
+
+ok connected the test point to esp also added the extra 220ohm res before din and connected the gnd of all leds 
+
+ahhhhhhhhhhhhhhhhh i was doi the work as normal and came to know what i have been doing is completely wrong i need to restart the whole thing ahhhhhh.
+
+hm RESTART:
+
+remade the ladout
+
+![](assets/lad.png)
+
+connected all the rows with a inner layer traces , then placed gnd for all the leds 
+
+ok wired the 1st row , its hella tiring , man its my 3rd attempt lol .
+
+hmpf 1st row completely done 
+
+![](assets/1r.png)
+
+it was freakin hard bruh 
+
+ahh 2nd row done too
+
+![](assets/2r.png)
+
+uf 3rd row done tooo
+
+![](assets/3r.png)
+
+ahh 4th row done too 
+
+![](assets/4r.png)
+
+oh man its exhausting , i feel like i am dying 
+
+done did all the rows , 
+
+![](assets/allr.png)
+
+alr connected all the row pins to esp also connected the usb to esp now only remaining things is coloumb and drc 
+
+---
+![](assets/alr.png)
+
+oh ok connected the coloumbs and ran drc a few times until i fixed all the fixable ones , the remaining errs were of the usb c's footprint one not mice , so idc 
+
+still fixed the jst clearence prob because it was doable , so pcb done 
+
+![](assets/finn.png)
+
+hell yeah it looks so damn cool .
+
+
+ok done plotted a gerber for the pcb 
+
+Hm the old switches went oos so i needa find new 
+
+![](assets/sww.png)
+
+done 3 packs of these will do the work and black is silent + clicky so its the best fit for me , also i researched a bit for the hot swappable option but conclusion was get lost and do soldering manually lol .
+
+ok now i have 2 tasks firmware + 3d case , i obviously will use rust(esp-hal back) for firmware but i absolutely suck in 3d .
+
+**Total time spent: 4.5 hours**

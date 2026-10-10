@@ -525,7 +525,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/erox/Texor/gerber",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -662,7 +662,7 @@
         "uuid": "3fef85d7-ac40-427a-b711-bdf40557d51e"
       }
     ],
-    "used_designators": "J1,L2-84,#PWR1-177,R1-4,USB1,U1-2,D1-85,SW1-96",
+    "used_designators": "J1-2,L2-84,#PWR1-177,R1-4,USB1,U1-2,D1-85,SW1-96",
     "variants": []
   },
   "sheets": [
