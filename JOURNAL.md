@@ -246,3 +246,18 @@ today my goal is js to write a basic firmware for basic hid also the rgb 2d plan
 started with the main.rs , nothing serious js put no_std and no_main and mod'd the fs i have currently.
 
 ok io.rs done , js mapped which gpios i am using and for which pins , easy peasy done 
+
+ok wrote the rgb one done too but it still cant connect to the physical pins because i didnt add tht for now anyways done , now next is the hid,
+
+done , no idea how the hid.rs works , copied frm a rust based keyboard lol
+
+ok looks like firmware is done , gonna do the cargo shit later  
+
+lol take a look in my main 
+
+![](assets/main.png)
+
+, its as small as hell but its currently js importing things not doin anything at all so not a prob .
+
+
+**Total time spent: 2 hours**
