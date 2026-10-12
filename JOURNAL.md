@@ -261,3 +261,20 @@ lol take a look in my main
 
 
 **Total time spent: 2 hours**
+
+# Oct 12
+
+ok firmware later now we gonna cook with the cad hmpf .
+
+oh hell nah , i added switches to footprints , did everything really well js to discover my potato cpu cant render 84 switches with internal build lol gonna need a cheaper .step with js outer geometry 
+
+ok got a new model after a lot of annoying model finding , STILL CANT LOAD  lol , so gonna do something cool i mean assign the model to only 2-3 caps and make the case , heh i am a genius
+
+
+ok i js added 4 on 4 sides
+
+![](assets/ky-3d.png)
+
+now gonna start designing the 3d model , wait maybe tomorrow not now .
+
+**Total time spent: 2 hours**

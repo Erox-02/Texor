@@ -527,7 +527,7 @@
       "netlist": "",
       "plot": "/home/erox/Texor/gerber",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3d/tex.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

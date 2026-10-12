@@ -150,7 +150,7 @@
 			(outputdirectory "/home/erox/Texor/gerber")
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "0246f77b-d86a-4f26-a462-54d0d005bdcd")
 		(at 2087.3525 609.17)
@@ -439,6 +439,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -730,7 +741,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "06b00b25-4de8-4463-bf03-2306358fdf79")
 		(at 1949.24 590.12)
@@ -1019,6 +1030,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1310,7 +1332,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "08273c86-0d12-431d-a7ea-8e58d60d32ec")
 		(at 2058.7775 571.07)
@@ -1599,6 +1621,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2178,7 +2211,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "0b60640d-8fcf-4270-8072-dae759bfa24d")
 		(at 2075.44625 590.12)
@@ -2469,8 +2502,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "0c25656b-bbeb-4913-85d8-0a7cb873abe0")
 		(at 2044.49 590.12)
@@ -2759,6 +2803,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3815,7 +3870,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "0f4cf067-0453-4277-b5df-2a43d7f7192a")
 		(at 1958.765 609.17)
@@ -4104,6 +4159,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5027,7 +5093,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "117e4c49-4850-4d07-b11d-7010820f10fd")
 		(at 2039.7275 571.07)
@@ -5318,8 +5384,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "1348f453-7201-465b-b47f-f6230461e644")
 		(at 2068.3025 628.22)
@@ -5608,6 +5685,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5927,7 +6015,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "16b95bbd-33c8-43b6-82b3-b9b945946b1f")
 		(at 1942.09625 628.22)
@@ -6216,6 +6304,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -6535,7 +6634,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "17699ecf-120b-4472-a461-0d0644c59f8d")
 		(at 2025.44 590.12)
@@ -6826,8 +6925,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "18c89d30-0b5a-475d-9e31-eb804396ee28")
 		(at 2001.6275 571.07)
@@ -7116,6 +7226,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -8671,7 +8792,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "1dd6f831-0adf-4b56-8973-1af52dde7f35")
 		(at 1992.1025 532.97)
@@ -8960,6 +9081,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -10143,7 +10275,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "22596a2d-5e71-419e-a018-cd8c022d2b25")
 		(at 1896.8525 532.97)
@@ -10434,8 +10566,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "22c6eaac-8bdb-46da-a332-0ee506a7b1da")
 		(at 2034.965 609.17)
@@ -10724,6 +10867,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -11331,7 +11485,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "25e03fb8-fea2-4c17-8342-7b800ab35da2")
 		(at 1920.665 609.17)
@@ -11620,6 +11774,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -11911,7 +12076,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "26f6755b-f691-4766-9967-1f76d8306aa1")
 		(at 1877.8025 552.02)
@@ -12200,6 +12365,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13383,7 +13559,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "2a4c3317-348f-4a6d-ba38-a3187047fcb9")
 		(at 1934.9525 532.97)
@@ -13674,8 +13850,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "2b351dfc-3974-4780-bbf4-a8a88ac809a9")
 		(at 1901.615 609.17)
@@ -13964,6 +14151,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -15779,7 +15977,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "2fe7034d-8e41-44aa-ad74-33579bee405a")
 		(at 2106.4025 552.02)
@@ -16070,8 +16268,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "30cbdb51-1157-4957-b13a-57e4e4c88603")
 		(at 2082.59 571.07)
@@ -16360,6 +16569,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -18046,7 +18266,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "3c9f441f-110f-42b5-aca7-50d87a34f995")
 		(at 1839.7025 552.02)
@@ -18337,8 +18557,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "3ca4b177-7a34-4c66-8a8a-e791abefc810")
 		(at 2077.8275 552.02)
@@ -18629,8 +18860,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "3cdab2d6-0553-4279-b9d1-db13d2282672")
 		(at 2011.1525 532.97)
@@ -18919,6 +19161,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -19498,7 +19751,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "3f3a8170-f730-4662-9f6b-78b91e16e79a")
 		(at 2049.2525 628.22)
@@ -19787,6 +20040,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -20078,7 +20342,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "40edd8a9-83ce-422c-bc74-967490825aa9")
 		(at 1827.79625 590.12)
@@ -20367,6 +20631,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -20686,7 +20961,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "41c304ac-9293-4263-ad2e-82ce3212a8e5")
 		(at 1849.2275 571.07)
@@ -20977,8 +21252,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "4214387e-2c8a-4da7-8b31-207cb8c27d7e")
 		(at 1846.84625 628.22)
@@ -21267,6 +21553,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -21875,7 +22172,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "473308ba-8993-425e-8db0-6343144ed5f5")
 		(at 1868.2775 571.07)
@@ -22166,8 +22463,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "480bb162-3e02-4eca-8483-4d689c36f153")
 		(at 1858.7525 532.97)
@@ -22456,6 +22764,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -22775,7 +23094,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "485967a8-dfaf-4cf2-838d-339f1f5b1d17")
 		(at 2006.39 590.12)
@@ -23066,8 +23385,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "4904fbed-0ac2-436d-b09e-24753cd14503")
 		(at 1915.9025 532.97)
@@ -23356,6 +23686,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -23963,7 +24304,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "4cbaa188-3336-472c-ada7-3a853332e54d")
 		(at 2087.3525 628.22)
@@ -24254,8 +24595,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "4e87c43c-eb78-478f-94d6-3e2712732ee9")
 		(at 1939.715 609.17)
@@ -24544,6 +24896,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -25783,7 +26146,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "506d465b-fe48-44dd-8da6-b6bd9622c04a")
 		(at 1973.0525 532.97)
@@ -26072,6 +26435,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -26679,7 +27053,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "521b8f16-d6a9-4eaf-854a-909a7c0bf492")
 		(at 2106.4025 628.22)
@@ -26968,6 +27342,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -28151,7 +28536,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "565d98a1-655b-4548-9285-9778f9e4c73b")
 		(at 1915.9025 552.02)
@@ -28440,6 +28825,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -29652,7 +30048,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "5acb90ea-72da-4c37-94b0-796ea500b13c")
 		(at 2106.4025 590.12)
@@ -29941,6 +30337,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -30260,7 +30667,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "5c737b20-5f5c-445c-a76b-52779ddcdc52")
 		(at 1820.6525 552.02)
@@ -30551,8 +30958,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "5d183f08-f1ac-43e7-8fa0-db2d4cdd4bb4")
 		(at 1963.5275 571.07)
@@ -30841,6 +31259,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -33289,7 +33718,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "621c1b53-b11e-426d-9ec4-e5b9da346383")
 		(at 1982.5775 571.07)
@@ -33580,8 +34009,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "62493ff7-86f9-42d4-a7f4-4f5472bf0262")
 		(at 2106.4025 609.17)
@@ -33870,6 +34310,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -35213,7 +35664,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "6d0d11cc-3743-4429-a36c-d8644a7de99d")
 		(at 1987.34 590.12)
@@ -35504,8 +35955,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "6f31dc6f-0d2b-4361-9c0f-e6a549da389a")
 		(at 1977.815 609.17)
@@ -35794,6 +36256,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -36113,7 +36586,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "70a43fc7-efa1-4e20-9190-d34e016a1b14")
 		(at 1968.29 590.12)
@@ -36402,6 +36875,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -38506,7 +38990,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "776aa18c-6bbd-4ed7-a0ac-ad2cca4fc6a2")
 		(at 2061.15875 609.17)
@@ -38795,6 +39279,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -39086,7 +39581,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "7a3187b8-d555-4426-b146-0bf1da8335ec")
 		(at 2011.1525 552.02)
@@ -39375,6 +39870,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -39694,7 +40200,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "7bcb9f57-900c-4b0c-ba3b-6511e24f02ea")
 		(at 1863.515 609.17)
@@ -39985,8 +40491,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "7c5d0f05-ca31-45e1-98ed-23e14d53af0a")
 		(at 1887.3275 571.07)
@@ -40275,6 +40792,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -41170,7 +41698,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "7e7adf1a-4113-49bb-bf27-791a6d54e254")
 		(at 1954.0025 532.97)
@@ -41459,6 +41987,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -42038,7 +42577,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "7f234dea-a853-4fd3-be4f-5c7ba1963d4c")
 		(at 1873.04 590.12)
@@ -42327,6 +42866,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -44746,7 +45296,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "8e1c9bbe-9d16-4ef7-a964-6f698d65a627")
 		(at 1882.565 609.17)
@@ -45035,6 +45585,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -45986,7 +46547,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "9578c11c-0745-408c-a62e-78323fc67cfd")
 		(at 1825.415 571.07)
@@ -46277,8 +46838,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "95e1f299-162d-4692-9c45-58ca1b397a50")
 		(at 2030.2025 628.22)
@@ -46569,8 +47141,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "96a13780-5311-4289-abe7-0ad0e919ee77")
 		(at 2068.3025 532.97)
@@ -46859,6 +47442,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -47782,7 +48376,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "99830be6-69fd-45de-9a94-548dc5709f5c")
 		(at 1911.14 590.12)
@@ -48071,6 +48665,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -49310,7 +49915,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "9b2aca40-5da9-4792-9596-b44d27a403df")
 		(at 1996.865 609.17)
@@ -49601,8 +50206,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "9b67b3f0-69e8-4ee8-90e8-f0986c2f081c")
 		(at 2049.2525 532.97)
@@ -49891,6 +50507,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -50814,7 +51441,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "9d749433-c33f-4029-9b2b-a2e54a68f943")
 		(at 2020.6775 571.07)
@@ -51103,6 +51730,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -51683,7 +52321,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "9e143c3f-38d3-401c-9fd2-05705ba170b9")
 		(at 2106.4025 532.97)
@@ -51972,6 +52610,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -52895,7 +53544,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "a1ced94b-5060-41b7-b456-1ea73d29e50e")
 		(at 2015.915 609.17)
@@ -53184,6 +53833,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -54739,7 +55399,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "a639f5dc-1ec6-43d9-b5c6-9085cdbf6bf4")
 		(at 2030.2025 552.02)
@@ -55030,8 +55690,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "a65770a1-26a3-4709-9e3f-2da0bf193c4c")
 		(at 1954.0025 552.02)
@@ -55320,6 +55991,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -55639,7 +56321,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "aa44b8fa-5d51-47c4-bce9-40c85e909ea3")
 		(at 1820.6525 532.97)
@@ -55928,6 +56610,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -56823,7 +57516,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "abe4f50c-41e2-4684-8865-e74f73938a32")
 		(at 2030.2025 532.97)
@@ -57114,8 +57807,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "b048ac54-be76-4956-bfc4-d7e195657ecd")
 		(at 1930.19 590.12)
@@ -57404,6 +58108,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -58327,7 +59042,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "b2c10e10-4b86-4388-8943-2aeefe4b352d")
 		(at 1870.65875 628.22)
@@ -58616,6 +59331,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -59223,7 +59949,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "b84ea561-59aa-45cc-b51d-3050297fa74e")
 		(at 1892.09 590.12)
@@ -59514,8 +60240,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "b8d05b51-b761-4b1b-9193-ddb5742ee4cf")
 		(at 1839.7025 532.97)
@@ -59804,6 +60541,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -60671,7 +61419,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "c282e55f-6f24-43e5-ba69-b7e1b03624a9")
 		(at 1832.55875 609.17)
@@ -60962,8 +61710,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "c38d4a28-11e8-44a2-a793-1fd5962b82ab")
 		(at 1944.4775 571.07)
@@ -61252,6 +62011,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -63198,7 +63968,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "cb2810f9-0e19-455b-86f6-9822d161fd48")
 		(at 1896.8525 552.02)
@@ -63487,6 +64257,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -64410,7 +65191,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "cf3588df-8c54-47a0-9d30-ae5c1ff62c5b")
 		(at 2087.3525 532.97)
@@ -64699,6 +65480,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -66514,7 +67306,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "d51492ff-0f63-4589-bcdd-dd43f4563fa0")
 		(at 1853.99 590.12)
@@ -66805,8 +67597,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "d6f3d7d1-0806-48be-a4b6-149a7a37a5af")
 		(at 1973.0525 552.02)
@@ -67095,6 +67898,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -67990,7 +68804,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "dbcd6b5d-a580-4385-8ea4-1dba59f117f8")
 		(at 1858.7525 552.02)
@@ -68279,6 +69093,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -68570,7 +69395,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "dd438cee-87a7-4fa9-bab6-83cc68e9ba3d")
 		(at 1992.1025 552.02)
@@ -68859,6 +69684,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -70358,7 +71194,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "e4f781e5-5ad0-4376-92ab-a2755ff15ff2")
 		(at 1877.8025 532.97)
@@ -70647,6 +71483,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -70966,7 +71813,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "e5e3375b-da1f-4bb6-aa7a-d961f9e99f82")
 		(at 1934.9525 552.02)
@@ -71257,8 +72104,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "e666407f-371a-4260-98f2-bbb236531128")
 		(at 1906.3775 571.07)
@@ -71547,6 +72405,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -72786,7 +73655,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "ee700f12-2381-49c1-a9dd-8ad48df179b3")
 		(at 1925.4275 571.07)
@@ -73075,6 +73944,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -73366,7 +74246,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "f2d3188c-977e-4df0-95b3-3e769a1ec997")
 		(at 2011.1525 628.22)
@@ -73657,8 +74537,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "f4173afe-7ea6-43ee-80c1-41191f1db3c7")
 		(at 1823.03375 628.22)
@@ -73947,6 +74838,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -74954,7 +75856,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "f987425b-3ad5-4088-b5b4-9b63c09f078d")
 		(at 2049.2525 552.02)
@@ -75243,6 +76145,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -75850,7 +76763,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Library:switch"
 		(layer "F.Cu")
 		(uuid "fde58c27-61ab-4365-8e2a-5ffafc859c84")
 		(at 2106.4025 571.07)
@@ -76139,6 +77052,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/erox/Downloads/mxstp.stp"
+			(offset
+				(xyz -2.5 -5 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -77135,6 +78059,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/erox/Downloads/temp/usb-c_16pins_vertical.step"
+			(offset
+				(xyz 0 2 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "RF_Module:ESP32-S2-MINI-1"
 		(layer "B.Cu")
@@ -77641,7 +78576,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "unconnected-(U1-IO3-Pad7)")
 			(pinfunction "IO3_7")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "0144d503-d38c-465c-bd58-487f2f22fd4c")
 		)
 		(pad "8" smd rect
