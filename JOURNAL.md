@@ -278,3 +278,11 @@ ok i js added 4 on 4 sides
 now gonna start designing the 3d model , wait maybe tomorrow not now .
 
 **Total time spent: 2 hours**
+
+# Oct 13 
+
+gonna add more sub its js a piece of shit for now to save my streak lol , i will definately change it on next commit , or del  it 
+
+![1](assets/allr.png)
+
+**Total time spent: 1.67 hours**
