@@ -150,7 +150,7 @@
 			(outputdirectory "/home/erox/Texor/gerber")
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0246f77b-d86a-4f26-a462-54d0d005bdcd")
 		(at 2087.3525 609.17)
@@ -439,17 +439,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -741,7 +730,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "06b00b25-4de8-4463-bf03-2306358fdf79")
 		(at 1949.24 590.12)
@@ -1030,17 +1019,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1332,7 +1310,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "08273c86-0d12-431d-a7ea-8e58d60d32ec")
 		(at 2058.7775 571.07)
@@ -1621,17 +1599,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2211,7 +2178,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0b60640d-8fcf-4270-8072-dae759bfa24d")
 		(at 2075.44625 590.12)
@@ -2502,19 +2469,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0c25656b-bbeb-4913-85d8-0a7cb873abe0")
 		(at 2044.49 590.12)
@@ -2803,17 +2759,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3870,7 +3815,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0f4cf067-0453-4277-b5df-2a43d7f7192a")
 		(at 1958.765 609.17)
@@ -4159,17 +4104,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5093,7 +5027,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "117e4c49-4850-4d07-b11d-7010820f10fd")
 		(at 2039.7275 571.07)
@@ -5384,19 +5318,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "1348f453-7201-465b-b47f-f6230461e644")
 		(at 2068.3025 628.22)
@@ -5685,17 +5608,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -6015,7 +5927,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "16b95bbd-33c8-43b6-82b3-b9b945946b1f")
 		(at 1942.09625 628.22)
@@ -6304,17 +6216,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -6634,7 +6535,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "17699ecf-120b-4472-a461-0d0644c59f8d")
 		(at 2025.44 590.12)
@@ -6925,19 +6826,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "18c89d30-0b5a-475d-9e31-eb804396ee28")
 		(at 2001.6275 571.07)
@@ -7226,17 +7116,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -8792,7 +8671,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "1dd6f831-0adf-4b56-8973-1af52dde7f35")
 		(at 1992.1025 532.97)
@@ -9081,17 +8960,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -10275,7 +10143,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "22596a2d-5e71-419e-a018-cd8c022d2b25")
 		(at 1896.8525 532.97)
@@ -10566,19 +10434,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "22c6eaac-8bdb-46da-a332-0ee506a7b1da")
 		(at 2034.965 609.17)
@@ -10867,17 +10724,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -11485,7 +11331,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "25e03fb8-fea2-4c17-8342-7b800ab35da2")
 		(at 1920.665 609.17)
@@ -11774,17 +11620,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -12076,7 +11911,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "26f6755b-f691-4766-9967-1f76d8306aa1")
 		(at 1877.8025 552.02)
@@ -12365,17 +12200,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13559,7 +13383,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "2a4c3317-348f-4a6d-ba38-a3187047fcb9")
 		(at 1934.9525 532.97)
@@ -13850,19 +13674,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "2b351dfc-3974-4780-bbf4-a8a88ac809a9")
 		(at 1901.615 609.17)
@@ -14151,17 +13964,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -15977,7 +15779,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "2fe7034d-8e41-44aa-ad74-33579bee405a")
 		(at 2106.4025 552.02)
@@ -16268,19 +16070,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "30cbdb51-1157-4957-b13a-57e4e4c88603")
 		(at 2082.59 571.07)
@@ -16569,17 +16360,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -18266,7 +18046,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3c9f441f-110f-42b5-aca7-50d87a34f995")
 		(at 1839.7025 552.02)
@@ -18557,19 +18337,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3ca4b177-7a34-4c66-8a8a-e791abefc810")
 		(at 2077.8275 552.02)
@@ -18860,19 +18629,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3cdab2d6-0553-4279-b9d1-db13d2282672")
 		(at 2011.1525 532.97)
@@ -19161,17 +18919,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -19751,7 +19498,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3f3a8170-f730-4662-9f6b-78b91e16e79a")
 		(at 2049.2525 628.22)
@@ -20040,17 +19787,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -20342,7 +20078,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "40edd8a9-83ce-422c-bc74-967490825aa9")
 		(at 1827.79625 590.12)
@@ -20631,17 +20367,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -20961,7 +20686,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "41c304ac-9293-4263-ad2e-82ce3212a8e5")
 		(at 1849.2275 571.07)
@@ -21252,19 +20977,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "4214387e-2c8a-4da7-8b31-207cb8c27d7e")
 		(at 1846.84625 628.22)
@@ -21553,17 +21267,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -22172,7 +21875,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "473308ba-8993-425e-8db0-6343144ed5f5")
 		(at 1868.2775 571.07)
@@ -22463,19 +22166,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "480bb162-3e02-4eca-8483-4d689c36f153")
 		(at 1858.7525 532.97)
@@ -22764,17 +22456,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -23094,7 +22775,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "485967a8-dfaf-4cf2-838d-339f1f5b1d17")
 		(at 2006.39 590.12)
@@ -23385,19 +23066,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "4904fbed-0ac2-436d-b09e-24753cd14503")
 		(at 1915.9025 532.97)
@@ -23686,17 +23356,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -24304,7 +23963,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "4cbaa188-3336-472c-ada7-3a853332e54d")
 		(at 2087.3525 628.22)
@@ -24595,19 +24254,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "4e87c43c-eb78-478f-94d6-3e2712732ee9")
 		(at 1939.715 609.17)
@@ -24896,17 +24544,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -26146,7 +25783,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "506d465b-fe48-44dd-8da6-b6bd9622c04a")
 		(at 1973.0525 532.97)
@@ -26435,17 +26072,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -27053,7 +26679,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "521b8f16-d6a9-4eaf-854a-909a7c0bf492")
 		(at 2106.4025 628.22)
@@ -27342,17 +26968,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -28536,7 +28151,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "565d98a1-655b-4548-9285-9778f9e4c73b")
 		(at 1915.9025 552.02)
@@ -28825,17 +28440,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -30048,7 +29652,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "5acb90ea-72da-4c37-94b0-796ea500b13c")
 		(at 2106.4025 590.12)
@@ -30337,17 +29941,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -30667,7 +30260,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "5c737b20-5f5c-445c-a76b-52779ddcdc52")
 		(at 1820.6525 552.02)
@@ -30958,19 +30551,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "5d183f08-f1ac-43e7-8fa0-db2d4cdd4bb4")
 		(at 1963.5275 571.07)
@@ -31259,17 +30841,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -33718,7 +33289,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "621c1b53-b11e-426d-9ec4-e5b9da346383")
 		(at 1982.5775 571.07)
@@ -34009,19 +33580,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "62493ff7-86f9-42d4-a7f4-4f5472bf0262")
 		(at 2106.4025 609.17)
@@ -34310,17 +33870,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -35664,7 +35213,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "6d0d11cc-3743-4429-a36c-d8644a7de99d")
 		(at 1987.34 590.12)
@@ -35955,19 +35504,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "6f31dc6f-0d2b-4361-9c0f-e6a549da389a")
 		(at 1977.815 609.17)
@@ -36256,17 +35794,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -36586,7 +36113,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "70a43fc7-efa1-4e20-9190-d34e016a1b14")
 		(at 1968.29 590.12)
@@ -36875,17 +36402,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -38990,7 +38506,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "776aa18c-6bbd-4ed7-a0ac-ad2cca4fc6a2")
 		(at 2061.15875 609.17)
@@ -39279,17 +38795,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -39581,7 +39086,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7a3187b8-d555-4426-b146-0bf1da8335ec")
 		(at 2011.1525 552.02)
@@ -39870,17 +39375,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -40200,7 +39694,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7bcb9f57-900c-4b0c-ba3b-6511e24f02ea")
 		(at 1863.515 609.17)
@@ -40491,19 +39985,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7c5d0f05-ca31-45e1-98ed-23e14d53af0a")
 		(at 1887.3275 571.07)
@@ -40792,17 +40275,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -41698,7 +41170,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7e7adf1a-4113-49bb-bf27-791a6d54e254")
 		(at 1954.0025 532.97)
@@ -41987,17 +41459,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -42577,7 +42038,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7f234dea-a853-4fd3-be4f-5c7ba1963d4c")
 		(at 1873.04 590.12)
@@ -42866,17 +42327,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -45296,7 +44746,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "8e1c9bbe-9d16-4ef7-a964-6f698d65a627")
 		(at 1882.565 609.17)
@@ -45585,17 +45035,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -46547,7 +45986,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9578c11c-0745-408c-a62e-78323fc67cfd")
 		(at 1825.415 571.07)
@@ -46838,19 +46277,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "95e1f299-162d-4692-9c45-58ca1b397a50")
 		(at 2030.2025 628.22)
@@ -47141,19 +46569,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "96a13780-5311-4289-abe7-0ad0e919ee77")
 		(at 2068.3025 532.97)
@@ -47442,17 +46859,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -48376,7 +47782,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "99830be6-69fd-45de-9a94-548dc5709f5c")
 		(at 1911.14 590.12)
@@ -48665,17 +48071,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -49915,7 +49310,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9b2aca40-5da9-4792-9596-b44d27a403df")
 		(at 1996.865 609.17)
@@ -50206,19 +49601,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9b67b3f0-69e8-4ee8-90e8-f0986c2f081c")
 		(at 2049.2525 532.97)
@@ -50507,17 +49891,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -51441,7 +50814,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9d749433-c33f-4029-9b2b-a2e54a68f943")
 		(at 2020.6775 571.07)
@@ -51730,17 +51103,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -52321,7 +51683,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9e143c3f-38d3-401c-9fd2-05705ba170b9")
 		(at 2106.4025 532.97)
@@ -52610,17 +51972,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -53544,7 +52895,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "a1ced94b-5060-41b7-b456-1ea73d29e50e")
 		(at 2015.915 609.17)
@@ -53833,17 +53184,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -55399,7 +54739,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "a639f5dc-1ec6-43d9-b5c6-9085cdbf6bf4")
 		(at 2030.2025 552.02)
@@ -55690,19 +55030,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "a65770a1-26a3-4709-9e3f-2da0bf193c4c")
 		(at 1954.0025 552.02)
@@ -55991,17 +55320,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -56321,7 +55639,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "aa44b8fa-5d51-47c4-bce9-40c85e909ea3")
 		(at 1820.6525 532.97)
@@ -56610,17 +55928,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -57516,7 +56823,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "abe4f50c-41e2-4684-8865-e74f73938a32")
 		(at 2030.2025 532.97)
@@ -57807,19 +57114,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b048ac54-be76-4956-bfc4-d7e195657ecd")
 		(at 1930.19 590.12)
@@ -58108,17 +57404,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -59042,7 +58327,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b2c10e10-4b86-4388-8943-2aeefe4b352d")
 		(at 1870.65875 628.22)
@@ -59331,17 +58616,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -59949,7 +59223,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b84ea561-59aa-45cc-b51d-3050297fa74e")
 		(at 1892.09 590.12)
@@ -60240,19 +59514,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b8d05b51-b761-4b1b-9193-ddb5742ee4cf")
 		(at 1839.7025 532.97)
@@ -60541,17 +59804,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -61419,7 +60671,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "c282e55f-6f24-43e5-ba69-b7e1b03624a9")
 		(at 1832.55875 609.17)
@@ -61710,19 +60962,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "c38d4a28-11e8-44a2-a793-1fd5962b82ab")
 		(at 1944.4775 571.07)
@@ -62011,17 +61252,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -63968,7 +63198,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "cb2810f9-0e19-455b-86f6-9822d161fd48")
 		(at 1896.8525 552.02)
@@ -64257,17 +63487,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -65191,7 +64410,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "cf3588df-8c54-47a0-9d30-ae5c1ff62c5b")
 		(at 2087.3525 532.97)
@@ -65480,17 +64699,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -67306,7 +66514,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "d51492ff-0f63-4589-bcdd-dd43f4563fa0")
 		(at 1853.99 590.12)
@@ -67597,19 +66805,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "d6f3d7d1-0806-48be-a4b6-149a7a37a5af")
 		(at 1973.0525 552.02)
@@ -67898,17 +67095,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -68804,7 +67990,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "dbcd6b5d-a580-4385-8ea4-1dba59f117f8")
 		(at 1858.7525 552.02)
@@ -69093,17 +68279,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -69395,7 +68570,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "dd438cee-87a7-4fa9-bab6-83cc68e9ba3d")
 		(at 1992.1025 552.02)
@@ -69684,17 +68859,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -71194,7 +70358,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "e4f781e5-5ad0-4376-92ab-a2755ff15ff2")
 		(at 1877.8025 532.97)
@@ -71483,17 +70647,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -71813,7 +70966,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "e5e3375b-da1f-4bb6-aa7a-d961f9e99f82")
 		(at 1934.9525 552.02)
@@ -72104,19 +71257,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "e666407f-371a-4260-98f2-bbb236531128")
 		(at 1906.3775 571.07)
@@ -72405,17 +71547,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -73655,7 +72786,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "ee700f12-2381-49c1-a9dd-8ad48df179b3")
 		(at 1925.4275 571.07)
@@ -73944,17 +73075,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -74246,7 +73366,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "f2d3188c-977e-4df0-95b3-3e769a1ec997")
 		(at 2011.1525 628.22)
@@ -74537,19 +73657,8 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "f4173afe-7ea6-43ee-80c1-41191f1db3c7")
 		(at 1823.03375 628.22)
@@ -74838,17 +73947,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -75856,7 +74954,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "f987425b-3ad5-4088-b5b4-9b63c09f078d")
 		(at 2049.2525 552.02)
@@ -76145,17 +75243,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -76763,7 +75850,7 @@
 			)
 		)
 	)
-	(footprint "Library:switch"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "fde58c27-61ab-4365-8e2a-5ffafc859c84")
 		(at 2106.4025 571.07)
@@ -77052,17 +76139,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "/home/erox/Downloads/mxstp.stp"
-			(offset
-				(xyz -2.5 -5 5.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -78071,6 +77147,284 @@
 			)
 		)
 	)
+	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(layer "B.Cu")
+		(uuid "7c6835f5-036e-4d53-a017-e3ee0b768726")
+		(at 1890.7 625.65 90)
+		(descr "module CMS SOT223 4 pins")
+		(tags "CMS SOT")
+		(property "Reference" "U3"
+			(at -0.05 -0.05 180)
+			(layer "B.SilkS")
+			(uuid "658ac50e-fbae-4c84-83aa-e3c913e9ec6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "AMS1117"
+			(at 0 -4.5 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6dc7b33c-38fa-4976-bca1-f98588793b8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "37683956-1ccd-4513-8cdc-4c17948769fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "1A Low Dropout regulator, positive, adjustable output, SOT-223"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ef66060d-1291-4ba7-9c0e-3e85b7781842")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "SOT?223*TabPin2*")
+		(path "/92a913a9-719a-4eba-87c9-bad9d186abd5")
+		(sheetname "/")
+		(sheetfile "tex.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start 1.91 -3.41)
+			(end 1.91 -2.15)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "17f72869-8049-4d45-b582-6f3bccfbe19b")
+		)
+		(fp_line
+			(start -1.85 -3.41)
+			(end 1.91 -3.41)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "c8db8e2f-3a5f-4406-8107-d1c48298f6be")
+		)
+		(fp_line
+			(start 1.91 3.41)
+			(end 1.91 2.15)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "3c5ce6bd-17bd-43c3-ad18-4dffe4a7e135")
+		)
+		(fp_line
+			(start -1.85 3.41)
+			(end 1.91 3.41)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "c8885800-8d6c-405e-96ea-2b49aace34b9")
+		)
+		(fp_poly
+			(pts
+				(xy -3.13 3.31) (xy -3.37 3.64) (xy -2.89 3.64) (xy -3.13 3.31)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.SilkS")
+			(uuid "cda4a545-9969-4950-9813-363b1d38e8ec")
+		)
+		(fp_line
+			(start 4.4 -3.6)
+			(end 4.4 3.6)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "fcb68436-1f1d-4fab-b0ac-85fe0f4f8c9e")
+		)
+		(fp_line
+			(start -4.4 -3.6)
+			(end 4.4 -3.6)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "09a8774e-f126-4ba6-b96c-5a5d312990a7")
+		)
+		(fp_line
+			(start 4.4 3.6)
+			(end -4.4 3.6)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "5df29608-96ca-48e1-ace5-d0d3e0508f18")
+		)
+		(fp_line
+			(start -4.4 3.6)
+			(end -4.4 -3.6)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "05d5303e-f383-49c1-adc0-eade990aca91")
+		)
+		(fp_line
+			(start -1.85 -3.35)
+			(end 1.85 -3.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3e30ff60-b061-47ba-8d10-31342dc5a311")
+		)
+		(fp_line
+			(start -1.85 2.35)
+			(end -1.85 -3.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "b592c693-669c-49ea-a002-92c9954e4d3d")
+		)
+		(fp_line
+			(start -1.85 2.35)
+			(end -0.85 3.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7722fb18-bffe-4ada-9466-fa964356d0c8")
+		)
+		(fp_line
+			(start 1.85 3.35)
+			(end 1.85 -3.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "f3538041-e519-4283-82e6-62ea9ed4eb9a")
+		)
+		(fp_line
+			(start -0.85 3.35)
+			(end 1.85 3.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "6343a63e-a4cc-41eb-b5e4-205559d0e08f")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "eb088616-f57d-4500-851b-94efd27a5c1b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -3.15 2.3 90)
+			(size 2 1.5)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pinfunction "ADJ_1")
+			(pintype "input")
+			(uuid "33824a56-ad89-4ce9-9d58-1c83973b2b53")
+		)
+		(pad "2" smd roundrect
+			(at -3.15 0 90)
+			(size 2 1.5)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "/3.3v")
+			(pinfunction "VO_2")
+			(pintype "power_out")
+			(uuid "1fc15543-6311-417c-98ab-580c9ebbf7e3")
+		)
+		(pad "2" smd roundrect
+			(at 3.15 0 90)
+			(size 2 3.8)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "/3.3v")
+			(pinfunction "VO_2")
+			(pintype "power_out")
+			(uuid "2bf7b492-9a8c-4629-a0c0-387dfa3bf84f")
+		)
+		(pad "3" smd roundrect
+			(at -3.15 -2.3 90)
+			(size 2 1.5)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "+5V")
+			(pinfunction "VI_3")
+			(pintype "power_in")
+			(uuid "23d0be6e-71a9-416f-95be-60d5d063e875")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "RF_Module:ESP32-S2-MINI-1"
 		(layer "B.Cu")
 		(uuid "d921cf17-3c59-4118-bbba-f98e5e843a38")
@@ -78538,7 +77892,7 @@
 			(at -7 1.7)
 			(size 0.8 0.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(net "unconnected-(U1-3V3-Pad3)")
+			(net "/3.3v")
 			(pinfunction "3V3_3")
 			(pintype "power_in")
 			(uuid "0577c741-6e5f-4e97-ba4f-029b27e54714")
@@ -81538,6 +80892,14 @@
 		(uuid "8b889984-7a27-4b2a-ae8f-1cffa2118803")
 	)
 	(via
+		(at 1894.9 628)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "8bb9b5c2-2fab-4c82-8712-b6093e4d1c91")
+	)
+	(via
 		(at 2094.3 631.9)
 		(size 0.6)
 		(drill 0.3)
@@ -81959,6 +81321,14 @@
 		(uuid "0d1c38fa-3ef9-4ab7-b2d6-f9ffe6e047a2")
 	)
 	(segment
+		(start 1893.8 628)
+		(end 1893 628.8)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "14cabbb3-20c4-4539-a214-15a4fe46cc4a")
+	)
+	(segment
 		(start 1908.35 638.35)
 		(end 1905.05 635.05)
 		(width 0.5)
@@ -82207,6 +81577,14 @@
 		(uuid "fd217e9c-178d-463e-b3a2-1f26b88fe8a1")
 	)
 	(segment
+		(start 1894.9 628)
+		(end 1893.8 628)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "fed81cde-ab7e-4ec6-99ee-456e2ed0dd89")
+	)
+	(segment
 		(start 1828.418529 536.52)
 		(end 1828.5675 536.52)
 		(width 0.2)
@@ -82263,14 +81641,6 @@
 		(uuid "01cc7b58-c71e-45ee-bd0c-104107971a5d")
 	)
 	(segment
-		(start 2043.15 610.9)
-		(end 2043.15 611.35)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "022ceb26-c6e5-48a2-b548-ad8e93685f73")
-	)
-	(segment
 		(start 1878.05 629.35)
 		(end 1878.05 630.14625)
 		(width 0.5)
@@ -82287,14 +81657,6 @@
 		(uuid "02e5a8c4-c6b6-4dd5-99f1-cdf96ece43fe")
 	)
 	(segment
-		(start 1957.1 592.515)
-		(end 1957.155 592.57)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "034a30d3-9762-4cf3-b278-8ddd9cf7da14")
-	)
-	(segment
 		(start 1905 552.56)
 		(end 1905 554.2375)
 		(width 0.5)
@@ -82303,12 +81665,12 @@
 		(uuid "041a27d6-958f-45c4-8450-47aeafc199ec")
 	)
 	(segment
-		(start 2024.05 611.4)
-		(end 2023.83 611.62)
+		(start 1881.9 589.9)
+		(end 1881.05 590.75)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "06979136-0ded-476e-b854-ec78d95f6314")
+		(uuid "042a335a-e89b-4e0f-9dd3-a512ab17b9e2")
 	)
 	(segment
 		(start 2090.45 573.465)
@@ -82325,6 +81687,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "0860d59b-b1b3-430f-9c63-f6a8aab6cf56")
+	)
+	(segment
+		(start 1947.8 609.7)
+		(end 1947.8 611.45)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "0905b1ef-ad63-46f3-ad64-2972a155e24b")
 	)
 	(segment
 		(start 2076.2175 535.42)
@@ -82351,6 +81721,14 @@
 		(uuid "0e8f379f-ccfe-4525-8801-5975ff6a39fa")
 	)
 	(segment
+		(start 2005.65 609.3)
+		(end 2004.95 610)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "0f54be64-e043-4a12-880f-c7134ee47c69")
+	)
+	(segment
 		(start 1909.95 610.91)
 		(end 1909.95 611.2)
 		(width 0.5)
@@ -82359,20 +81737,12 @@
 		(uuid "0f6011f2-b737-419d-aaa6-6de66598ce9e")
 	)
 	(segment
-		(start 2095.3 611.5875)
-		(end 2095.2675 611.62)
+		(start 2095.55 609.6)
+		(end 2095.3 609.85)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "10a10230-986a-4535-ae7e-fcb080067d8b")
-	)
-	(segment
-		(start 1881.05 592.475)
-		(end 1880.955 592.57)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "12743ae9-573b-4386-8fd7-6c1db2bb864e")
+		(uuid "11a62477-ef0c-4a14-a5d5-06a3535a8d8e")
 	)
 	(segment
 		(start 1858.45 572.9)
@@ -82381,14 +81751,6 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "145192c6-22a8-4a7e-b592-f755024320c8")
-	)
-	(segment
-		(start 1976.65 590.65)
-		(end 1976.65 592.125)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "146387cb-6e3f-4876-83e1-501f0a2fa025")
 	)
 	(segment
 		(start 2019.0675 532.6525)
@@ -82405,6 +81767,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "1525578d-dfe9-4071-bd6c-2ebc7717ff32")
+	)
+	(segment
+		(start 1881.05 592.475)
+		(end 1880.955 592.57)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "194195f0-97cd-4138-863e-f154f1092bbc")
 	)
 	(segment
 		(start 1896.1625 572.6)
@@ -82431,20 +81801,20 @@
 		(uuid "1e74eee9-8ac0-4bc9-9cca-dc5027abc097")
 	)
 	(segment
-		(start 1928.6 611.6)
-		(end 1928.58 611.62)
+		(start 2024.05 609.4)
+		(end 2024.05 611.4)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "1eb7cb00-121a-44d0-ace6-bbdee6844a2d")
+		(uuid "1f1bd300-594c-4cde-8422-c43899a1406d")
 	)
 	(segment
-		(start 2004.95 611.45)
-		(end 2004.78 611.62)
+		(start 1915.13 573.07)
+		(end 1914.68 573.52)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "1f086291-6c44-49f5-8de2-0c4171bdb9f5")
+		(uuid "1f7aa79a-04c3-47a3-ac5a-f3105c919639")
 	)
 	(segment
 		(start 2019.25 554.2875)
@@ -82503,6 +81873,14 @@
 		(uuid "273bc880-1725-4afe-918b-5e9f8108409c")
 	)
 	(segment
+		(start 1985.65 611.54)
+		(end 1985.73 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "296f8710-6069-45d7-8e19-f4bf632d98ed")
+	)
+	(segment
 		(start 2048 571.61)
 		(end 2048 573.1625)
 		(width 0.5)
@@ -82519,12 +81897,12 @@
 		(uuid "2b4d7f6c-923a-4db8-a85d-38809ab5f68f")
 	)
 	(segment
-		(start 1985.65 610.9)
-		(end 1985.65 611.54)
+		(start 2083.65 591.3)
+		(end 2083.65 592.28125)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "2cdec430-df6a-43c9-8da5-fa34051699a4")
+		(uuid "2dcd4d4d-7553-4fe3-8ae4-80d1bf1a8216")
 	)
 	(segment
 		(start 1828.905331 567.994669)
@@ -82559,6 +81937,14 @@
 		(uuid "31f1f8c7-2f8e-4f70-8352-a09bc1a32146")
 	)
 	(segment
+		(start 1862.15 592.325)
+		(end 1861.905 592.57)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "33ea4c74-0b51-44f0-807e-7a8abb2bbe43")
+	)
+	(segment
 		(start 1885.8 554.3875)
 		(end 1885.7175 554.47)
 		(width 0.5)
@@ -82573,14 +81959,6 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "35ffdf34-2696-4a51-b482-5eac1fc23f43")
-	)
-	(segment
-		(start 2095.3 610.91)
-		(end 2095.3 611.5875)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "363f6184-951e-4054-aa23-fc0fd9731f9d")
 	)
 	(segment
 		(start 1866.6675 535.42)
@@ -82599,28 +81977,12 @@
 		(uuid "37634119-b2d7-4534-88fd-08cd949207ba")
 	)
 	(segment
-		(start 1871.25 611.44)
-		(end 1871.43 611.62)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "379e4d57-5754-44e8-aa1e-9e67ca3987f6")
-	)
-	(segment
 		(start 2037.8 629.65)
 		(end 2037.8 630.3525)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "38496e13-d1da-4b43-8aed-c430a9e8cb28")
-	)
-	(segment
-		(start 1862.15 592.325)
-		(end 1861.905 592.57)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "38dd24aa-c577-4145-9beb-a069cdd4d859")
 	)
 	(segment
 		(start 1896.35 572.6)
@@ -82637,6 +81999,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "391dc2e8-448f-4c4f-ad60-af9f50b262b1")
+	)
+	(segment
+		(start 1928.6 611.6)
+		(end 1928.58 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "393435ca-bdd7-481e-9213-df541d08c839")
 	)
 	(segment
 		(start 2048 573.1625)
@@ -82679,12 +82049,20 @@
 		(uuid "3e35f1a3-4425-4027-b6fd-39d3276935ac")
 	)
 	(segment
-		(start 1871.25 610.9)
-		(end 1871.25 611.44)
+		(start 1957.75 589.45)
+		(end 1957.1 590.1)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "3ec1b06b-8d2e-4ed4-9e7b-a2d71b835ccf")
+		(uuid "3e628381-6ae8-4156-9f37-df042feebb0e")
+	)
+	(segment
+		(start 1862.15 590.35)
+		(end 1862.15 592.325)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "401589eb-9421-45d0-85c2-8df32de2e263")
 	)
 	(segment
 		(start 1821.5 548.5)
@@ -82695,6 +82073,14 @@
 		(uuid "4323ba34-f1b8-47ec-84cf-86e55bf8f9bf")
 	)
 	(segment
+		(start 2069.1 611.59375)
+		(end 2069.07375 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "46b59943-956d-4bd1-a684-9fc2f8215cce")
+	)
+	(segment
 		(start 1924.2 552.56)
 		(end 1924.2 554.0875)
 		(width 0.5)
@@ -82703,12 +82089,12 @@
 		(uuid "46e17adf-d0d2-4537-8fef-69d9daad33eb")
 	)
 	(segment
-		(start 1995.55 592.275)
-		(end 1995.255 592.57)
+		(start 2069.2 608.9)
+		(end 2069.2 610.510661)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "48d37905-1d3e-41e7-8eba-251af4a08652")
+		(uuid "47083775-3171-484c-bcd0-bf9877f4b6e6")
 	)
 	(segment
 		(start 1971.6 571.15)
@@ -82719,12 +82105,12 @@
 		(uuid "491a3ee3-8a76-4815-84ed-ae72f813939d")
 	)
 	(segment
-		(start 1876.8025 572.91)
-		(end 1876.1925 573.52)
+		(start 1938.75 591.925)
+		(end 1938.105 592.57)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "4a7f77f0-cbff-406d-981c-fea61ac46394")
+		(uuid "49733d84-ed9f-4009-a380-f1e6a12ef530")
 	)
 	(segment
 		(start 2090.45 571.61)
@@ -82759,20 +82145,12 @@
 		(uuid "4df175e4-da89-4c6e-88db-74a06ea79eb6")
 	)
 	(segment
-		(start 1967.05 611.25)
-		(end 1966.68 611.62)
+		(start 1900.7 591.875)
+		(end 1900.005 592.57)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "4e7c5d54-b9fc-4677-948c-40173bcd4ef6")
-	)
-	(segment
-		(start 2069.1 610.85)
-		(end 2069.1 611.59375)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "4f06bd62-3336-4d0f-9d11-907e5efae099")
+		(uuid "50389609-dbf9-41d0-8eec-b23015c610ff")
 	)
 	(segment
 		(start 1829.4 552.5)
@@ -82781,6 +82159,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "50f755e4-7e26-4a4a-b51c-1707ae644a56")
+	)
+	(segment
+		(start 2095.3 611.5875)
+		(end 2095.2675 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "50fa3f0e-3a58-4cfb-bdff-0a1e8923ca6e")
 	)
 	(segment
 		(start 2038.1175 532.3525)
@@ -82815,20 +82201,28 @@
 		(uuid "540aba74-1b36-41f2-90af-a25bc0c4dc72")
 	)
 	(segment
-		(start 1938.75 591.86)
-		(end 1938.75 591.925)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "556b0c0c-de2f-4a87-a150-c8fc38241633")
-	)
-	(segment
 		(start 1839.389339 608.75)
 		(end 1837.680945 610.458394)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "55ce6151-1537-4e28-aaa1-b3ac5d1b1122")
+	)
+	(segment
+		(start 2069.2 610.510661)
+		(end 2069.1 610.610661)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "5635e337-8a03-4bfa-b266-0a0373306362")
+	)
+	(segment
+		(start 1967.05 609.9)
+		(end 1967.05 611.25)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "56854c68-490e-43a9-96ed-44c3fcc1f95f")
 	)
 	(segment
 		(start 1836.05 591.5)
@@ -82839,12 +82233,12 @@
 		(uuid "58c0ca42-5edb-4a3d-a0cb-a5f719103234")
 	)
 	(segment
-		(start 1862.15 591.8)
-		(end 1862.15 592.325)
+		(start 1977.45 589.85)
+		(end 1976.65 590.65)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "5ebd163c-ba43-4190-ac87-9a90391cadb9")
+		(uuid "5a0fe6be-078a-47cb-b2af-3fae8d5beb6a")
 	)
 	(segment
 		(start 2114.6 554.1875)
@@ -82855,20 +82249,20 @@
 		(uuid "5eff3389-660f-4742-82bd-600dada8c02c")
 	)
 	(segment
+		(start 1967.05 611.25)
+		(end 1966.68 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "5f831dd2-f9f7-4e98-9661-f00e38094a16")
+	)
+	(segment
 		(start 1837.15 576.239338)
 		(end 1837.15 577.9)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "601984a7-e328-45d8-a2f5-2a461a99f1ac")
-	)
-	(segment
-		(start 1900.7 590.55)
-		(end 1900.7 591.875)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "607bbbd4-faaa-44ca-b85c-120978c7e86d")
 	)
 	(segment
 		(start 2057.1675 535.42)
@@ -82895,6 +82289,14 @@
 		(uuid "6433f82c-62ea-4876-85d7-62ac6253d99e")
 	)
 	(segment
+		(start 1928.6 609.2)
+		(end 1928.6 611.6)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "649cd666-1b9e-43e2-8995-34a9f28f95b6")
+	)
+	(segment
 		(start 1829.4 534.71)
 		(end 1829.2775 534.71)
 		(width 0.5)
@@ -82911,20 +82313,28 @@
 		(uuid "673bfa6f-9960-4b02-9160-f2048a2c1f51")
 	)
 	(segment
+		(start 1871.65 609.1)
+		(end 1871.25 609.5)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "67454fdd-b6fa-4062-9091-b3836e3db76a")
+	)
+	(segment
+		(start 2024.25 609.2)
+		(end 2024.05 609.4)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "67c10a24-3982-45ed-830d-1defa0cd7c28")
+	)
+	(segment
 		(start 1840.9 611.19375)
 		(end 1840.47375 611.62)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "67c881f1-3507-4535-a7af-d558956b7e44")
-	)
-	(segment
-		(start 1957.1 590.66)
-		(end 1957.1 592.515)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "685a53b0-967a-4501-8945-aecfd6612598")
 	)
 	(segment
 		(start 2113.95 573.1525)
@@ -82935,20 +82345,20 @@
 		(uuid "68600594-b874-4b5c-acb8-7a43905273cd")
 	)
 	(segment
-		(start 2069.1 611.59375)
-		(end 2069.07375 611.62)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "6ac179f7-764d-4725-81fc-26cf50549d43")
-	)
-	(segment
 		(start 1847.95 552.55)
 		(end 1847.95 554.1375)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "6b8cefa4-fcfd-4cbc-8200-dd79827619ea")
+	)
+	(segment
+		(start 1890.75 609.5)
+		(end 1890.75 611.35)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "6c158e6a-1b84-4417-a65f-170c9677c920")
 	)
 	(segment
 		(start 2057.1675 554.47)
@@ -82967,12 +82377,28 @@
 		(uuid "6ca50737-bf66-46aa-ad82-9fa2c6354a46")
 	)
 	(segment
-		(start 1881.05 590.66)
-		(end 1881.05 592.475)
+		(start 1995.55 592.275)
+		(end 1995.255 592.57)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "6de4aada-3928-46bb-a280-5330b15758f0")
+		(uuid "6e104afa-ec1f-4f1f-979f-b05492aca884")
+	)
+	(segment
+		(start 1985.65 610.15)
+		(end 1985.65 611.54)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "6ed4fb11-e7f6-4ed2-aa2c-c0c53fe0bb30")
+	)
+	(segment
+		(start 1967.6 609.35)
+		(end 1967.05 609.9)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "6ef3a1ac-0da5-4302-a7a8-840a58f348be")
 	)
 	(segment
 		(start 1840.9 609.6)
@@ -83007,6 +82433,14 @@
 		(uuid "70dbcddb-0ef4-46de-ae54-67215be3ae27")
 	)
 	(segment
+		(start 1901.15 589.85)
+		(end 1900.7 590.3)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "72ee0b8b-9cf0-4c5e-a11b-df7b269aae6f")
+	)
+	(segment
 		(start 1981.15 554.2875)
 		(end 1980.9675 554.47)
 		(width 0.5)
@@ -83021,6 +82455,22 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "791c0047-6e2f-4191-87d4-325c6762e8b4")
+	)
+	(segment
+		(start 1948.2 609.3)
+		(end 1947.8 609.7)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "7a1a99e5-43c7-44bc-bc2f-8cead420dc17")
+	)
+	(segment
+		(start 1947.8 611.45)
+		(end 1947.63 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "7b0bc487-58a3-4702-9315-b1c088baff93")
 	)
 	(segment
 		(start 2057.25 629.6)
@@ -83047,12 +82497,12 @@
 		(uuid "7c93ff0c-f961-4a6b-9183-218a1d974b77")
 	)
 	(segment
-		(start 1995.55 591.86)
-		(end 1995.55 592.275)
+		(start 2024.05 611.4)
+		(end 2023.83 611.62)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "7f02d26a-cafe-40d8-bc99-bad78a335922")
+		(uuid "7e75fcb0-d072-448f-8b64-fcf8614e106d")
 	)
 	(segment
 		(start 2075.95 630.4025)
@@ -83069,14 +82519,6 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "7ff1c1aa-108d-4eb1-a344-b79cf932e0e1")
-	)
-	(segment
-		(start 1877.15 572.91)
-		(end 1876.8025 572.91)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "8041b506-3788-44e2-9b2f-8fa144a793c1")
 	)
 	(segment
 		(start 2018.55 630.1525)
@@ -83183,12 +82625,12 @@
 		(uuid "89486bab-e8de-426c-a916-af93e4beaf30")
 	)
 	(segment
-		(start 1915.13 573.07)
-		(end 1914.68 573.52)
+		(start 2095.3 609.85)
+		(end 2095.3 611.5875)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "8a57be0d-060c-455e-9ff4-dde80f9fcb96")
+		(uuid "8ab49e5e-134b-46fe-b300-73c223f3bc76")
 	)
 	(segment
 		(start 2114.15 609.45)
@@ -83231,14 +82673,6 @@
 		(uuid "9088995a-ff49-4b74-86b5-3b704ebdec92")
 	)
 	(segment
-		(start 2024.05 611.009999)
-		(end 2024.05 611.4)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "92df3574-77a6-4311-bdf4-e24f3323a077")
-	)
-	(segment
 		(start 1839.65 595.1)
 		(end 1839.65 597.45)
 		(width 0.5)
@@ -83255,6 +82689,22 @@
 		(uuid "937e589b-a52a-4fa8-8685-8d0eec633a14")
 	)
 	(segment
+		(start 1862.25 590.25)
+		(end 1862.15 590.35)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "9593f95b-c18b-4cc1-96f4-09700bdb069e")
+	)
+	(segment
+		(start 1976.65 590.65)
+		(end 1976.65 592.125)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "9783b066-548b-4421-932b-85cfc2555d19")
+	)
+	(segment
 		(start 1837.680945 610.458394)
 		(end 1837.680945 612.469046)
 		(width 0.5)
@@ -83269,6 +82719,22 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "98f06408-3ade-4095-98da-0c32139556da")
+	)
+	(segment
+		(start 1877.15 570.25)
+		(end 1876.8025 570.5975)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "9919cafe-6a3c-4bab-a8e4-ac6ced0490c5")
+	)
+	(segment
+		(start 1900.7 590.3)
+		(end 1900.7 591.875)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "99383767-d374-4eb1-bf54-7d2e52cb0e85")
 	)
 	(segment
 		(start 1821.92 531.42)
@@ -83295,12 +82761,12 @@
 		(uuid "9d283ab8-0f5c-4d21-8a6b-d85da50ba8fa")
 	)
 	(segment
-		(start 1915.55 573.07)
-		(end 1915.13 573.07)
+		(start 1876.8025 572.91)
+		(end 1876.1925 573.52)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "9d5278dd-55cb-434e-b5d0-f1708f372361")
+		(uuid "9db2319e-0d23-4267-9a29-2fc301fc9170")
 	)
 	(segment
 		(start 1952.5 573.4125)
@@ -83309,14 +82775,6 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "9debe69f-953c-46b2-a3e2-bc2c7391a8ce")
-	)
-	(segment
-		(start 1967.05 610.91)
-		(end 1967.05 611.25)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "a1fcf3d0-1510-4399-81e4-beeec6934dad")
 	)
 	(segment
 		(start 2095.55 630.3875)
@@ -83351,22 +82809,6 @@
 		(uuid "a3d0c4fb-2ea0-43ad-bc5d-958fa1af035f")
 	)
 	(segment
-		(start 1900.7 591.875)
-		(end 1900.005 592.57)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "a5a4e11a-dec3-4829-b7d2-c94e6595e609")
-	)
-	(segment
-		(start 1840.9 608.9)
-		(end 1840.9 609.6)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "a5d7d0d3-1806-4432-af4c-77e7665f0a6b")
-	)
-	(segment
 		(start 1961.9175 532.5525)
 		(end 1963.05 531.42)
 		(width 0.5)
@@ -83383,20 +82825,12 @@
 		(uuid "a6990a2d-9290-4cf0-b069-8b2aa08ba792")
 	)
 	(segment
-		(start 2004.95 610.9)
-		(end 2004.95 611.45)
+		(start 1890.75 611.35)
+		(end 1890.48 611.62)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "a7f4e345-5df8-4a22-8503-f4e6afa6e9ce")
-	)
-	(segment
-		(start 1890.75 610.91)
-		(end 1890.75 611.35)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "a86f4f1c-afe1-40c5-91ee-f1e26f77ed76")
+		(uuid "a7ca6f19-447b-49ed-ae64-92f55623b6a6")
 	)
 	(segment
 		(start 1971.6 573.3625)
@@ -83405,14 +82839,6 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "a8f46ca2-6184-48ca-a034-8a9bb8a89352")
-	)
-	(segment
-		(start 1914.68 573.52)
-		(end 1914.2925 573.52)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "aa0f7e11-f961-4344-a76a-b08494c98b8c")
 	)
 	(segment
 		(start 2114.35 534.1)
@@ -83495,14 +82921,6 @@
 		(uuid "b4db63bd-851d-4d18-b68a-65bd213e02bd")
 	)
 	(segment
-		(start 1938.75 591.925)
-		(end 1938.105 592.57)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "b5fb02ef-bfb8-44ca-b262-eb97a4b7e095")
-	)
-	(segment
 		(start 1949.8 628.8)
 		(end 1949.8 630.45875)
 		(width 0.5)
@@ -83519,20 +82937,12 @@
 		(uuid "b89165c2-4037-47ee-81d4-a96e5e115b05")
 	)
 	(segment
-		(start 1985.65 611.54)
-		(end 1985.73 611.62)
+		(start 2004.95 610)
+		(end 2004.95 611.45)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "b8c9eec9-d177-438c-9876-4c641c34c519")
-	)
-	(segment
-		(start 1890.75 611.35)
-		(end 1890.48 611.62)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "b94fc11c-9926-4fb9-84ef-d4751e65d2f5")
+		(uuid "b8f2b9eb-8b2c-4e2c-8319-d0c4a8a85932")
 	)
 	(segment
 		(start 1857.7625 572.9)
@@ -83541,6 +82951,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "b997de76-4592-4b3b-9dcd-825a34d041c6")
+	)
+	(segment
+		(start 2083.65 592.28125)
+		(end 2083.36125 592.57)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "b9e93e33-fccb-4e94-bb1a-1656dad23c59")
 	)
 	(segment
 		(start 1827 552.5)
@@ -83599,12 +83017,52 @@
 		(uuid "c4d898d4-f9d9-4a9e-b48b-22829ac6fded")
 	)
 	(segment
+		(start 1986.3 609.5)
+		(end 1985.65 610.15)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "c5242033-a047-4c2c-809b-65c35d547197")
+	)
+	(segment
 		(start 1830.005331 567.994669)
 		(end 1830.4 567.6)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "c56f3c58-11c3-4a83-a462-578549d1d007")
+	)
+	(segment
+		(start 1914.68 573.52)
+		(end 1914.2925 573.52)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "c586dabf-a4fe-4458-80e7-fb01587ac419")
+	)
+	(segment
+		(start 1840.9 610.2)
+		(end 1840.9 609.6)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "c62465aa-c09b-4b3b-8720-7eae3cdde360")
+	)
+	(segment
+		(start 2004.95 611.45)
+		(end 2004.78 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "c677c6e2-3237-4090-886d-556dffbffb71")
+	)
+	(segment
+		(start 1871.25 611.44)
+		(end 1871.43 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "c8db24d1-327e-4969-98ed-eaf290257aac")
 	)
 	(segment
 		(start 2085.7425 551.55897)
@@ -83615,12 +83073,36 @@
 		(uuid "c9d67cbc-5e4a-490d-80c6-fd9fd9297d00")
 	)
 	(segment
+		(start 1976.65 592.125)
+		(end 1976.205 592.57)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "ca5b73d7-2c6c-41f6-b65e-4e15d8f06b6c")
+	)
+	(segment
 		(start 1821.5 548.5)
 		(end 1818.45 551.55)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "cbf9f8e2-f9bd-47ed-a38a-66352780c4e8")
+	)
+	(segment
+		(start 1915.55 573.07)
+		(end 1915.13 573.07)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "cce03b89-e3af-4621-85a2-b7192868cce5")
+	)
+	(segment
+		(start 2069.1 610.610661)
+		(end 2069.1 611.59375)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "cd034e78-5e81-4d4a-83c6-84cc4ddf5352")
 	)
 	(segment
 		(start 1821.65 560.739339)
@@ -83639,12 +83121,12 @@
 		(uuid "ce48282c-2af8-467f-a570-ca13edd68fb8")
 	)
 	(segment
-		(start 1976.65 592.125)
-		(end 1976.205 592.57)
+		(start 1995.55 591)
+		(end 1995.55 592.275)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "ceed39d3-a18e-41af-8874-4450cd0c16bc")
+		(uuid "ce9b61ee-348a-404a-8f50-51b9ea6786fa")
 	)
 	(segment
 		(start 1833.33 572.419339)
@@ -83653,6 +83135,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "cf7ba890-1c08-4ba4-9610-4e0d5de7c794")
+	)
+	(segment
+		(start 1957.1 592.515)
+		(end 1957.155 592.57)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "d0a006f4-4595-4a49-8797-bd6cadfa53fc")
 	)
 	(segment
 		(start 1854.65 630.55875)
@@ -83695,14 +83185,6 @@
 		(uuid "d6cb99b9-0091-4247-8fa2-a2a0e76c55aa")
 	)
 	(segment
-		(start 2043.15 611.35)
-		(end 2042.88 611.62)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "d6d5a77d-89cd-4771-a5a4-d6213f1e7eae")
-	)
-	(segment
 		(start 1854.65 629.25)
 		(end 1854.65 630.55875)
 		(width 0.5)
@@ -83711,12 +83193,12 @@
 		(uuid "d99285c7-223d-4a92-be40-abdf669d56d3")
 	)
 	(segment
-		(start 1928.6 610.91)
-		(end 1928.6 611.6)
+		(start 1938.75 590.8)
+		(end 1938.75 591.925)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "daf03434-bec8-4907-8c8f-483956688304")
+		(uuid "dcc35022-991b-4502-9c7a-716ace5ca7c2")
 	)
 	(segment
 		(start 1831.5 629.05)
@@ -83735,20 +83217,28 @@
 		(uuid "dda26993-dbfa-4448-8288-aef0bea5309b")
 	)
 	(segment
+		(start 2043.15 611.35)
+		(end 2042.88 611.62)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "dfb3a139-6f61-4efd-9152-ce15f130b96d")
+	)
+	(segment
+		(start 1928.65 609.15)
+		(end 1928.6 609.2)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "e1465d61-d84a-40f8-99bb-2902decdd347")
+	)
+	(segment
 		(start 2057.25 630.5875)
 		(end 2057.1675 630.67)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "e164eeb8-b2b5-4432-99f9-fab0fabab82b")
-	)
-	(segment
-		(start 1947.8 611.45)
-		(end 1947.63 611.62)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "e1f9f6f3-3e86-45b4-93c3-0208f3538335")
 	)
 	(segment
 		(start 1809.6375 534.25)
@@ -83767,12 +83257,44 @@
 		(uuid "e5f24954-d7d2-4072-8056-0fdfdbf448db")
 	)
 	(segment
-		(start 1947.8 610.9)
-		(end 1947.8 611.45)
+		(start 2043.15 609.9)
+		(end 2043.15 611.35)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "ed4f66f5-5b02-4224-b654-32d8ddde9a2f")
+		(uuid "ea4d7f29-6143-4076-a35c-faa043b220e5")
+	)
+	(segment
+		(start 1881.05 590.75)
+		(end 1881.05 592.475)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "eac50560-be11-4dbf-af47-b0a09273e272")
+	)
+	(segment
+		(start 1876.8025 570.5975)
+		(end 1876.8025 572.91)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "ec314268-7d6a-43c6-afe2-5656a6746416")
+	)
+	(segment
+		(start 1940.1 589.45)
+		(end 1938.75 590.8)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "edd829b1-e74b-4d54-8948-501781ab28a0")
+	)
+	(segment
+		(start 1871.25 609.5)
+		(end 1871.25 611.44)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "ee318ace-5d70-4557-9f36-7f6d412fe48d")
 	)
 	(segment
 		(start 1923.8175 535.42)
@@ -83783,12 +83305,12 @@
 		(uuid "ee96362e-5fae-4c8a-88b7-af16ca2d52d2")
 	)
 	(segment
-		(start 2083.65 591.86)
-		(end 2083.65 592.28125)
+		(start 2043.85 609.2)
+		(end 2043.15 609.9)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "f03af875-17cc-4114-b03a-a6a412982bb0")
+		(uuid "f0ce142b-d043-4615-982e-d7f984182b9e")
 	)
 	(segment
 		(start 1949.8 630.45875)
@@ -83797,6 +83319,22 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "f159bef2-570a-4cbc-9c12-a30a769ae757")
+	)
+	(segment
+		(start 1996.45 590.1)
+		(end 1995.55 591)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "f1e485e4-fda8-4e0a-a88a-6a2c04eeb1b8")
+	)
+	(segment
+		(start 1957.1 590.1)
+		(end 1957.1 592.515)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "f2f47994-2307-458f-8bcc-3834669f4ecb")
 	)
 	(segment
 		(start 2018.55 629.65)
@@ -83831,17 +83369,25 @@
 		(uuid "f98af460-c37d-47da-bfb4-fd32a694705d")
 	)
 	(segment
-		(start 2083.65 592.28125)
-		(end 2083.36125 592.57)
+		(start 1890.9 609.35)
+		(end 1890.75 609.5)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "faa79e43-a539-4896-b825-3a03a2e82309")
+		(uuid "fd2021f9-b490-41b5-8f2c-873d93a18bac")
+	)
+	(segment
+		(start 2084.55 590.4)
+		(end 2083.65 591.3)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "fe8be567-fb35-4a1b-9ea5-875e68916756")
 	)
 	(via
 		(at 2057.5 550.47)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "05c7dae8-85c8-4593-9827-2d1f46d5d0af")
@@ -83856,8 +83402,8 @@
 	)
 	(via
 		(at 1963.05 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "0b83fcb9-ef4f-4190-9ba2-83a35d0cb839")
@@ -83872,16 +83418,16 @@
 	)
 	(via
 		(at 2077.6 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "0e74ea9f-85cb-4312-9b20-ca575110b9e0")
 	)
 	(via
 		(at 1867.35 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "129a17a0-78c4-4d6c-9ca6-aec3adb61af0")
@@ -83904,8 +83450,8 @@
 	)
 	(via
 		(at 1905.8 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "195bdfdf-f57c-4df8-a07b-83eeabcdf7a9")
@@ -83928,8 +83474,8 @@
 	)
 	(via
 		(at 2114.05 590.8)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "233fae95-b356-4e7c-8d2e-bf4a632db551")
@@ -83944,16 +83490,16 @@
 	)
 	(via
 		(at 2052.85 590.66)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "28291962-502d-4448-9338-72811e587d58")
 	)
 	(via
-		(at 1900.7 590.55)
-		(size 0.6)
-		(drill 0.3)
+		(at 1901.15 589.85)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "2b3f2b08-6158-4484-a609-29342f3ee088")
@@ -83968,16 +83514,16 @@
 	)
 	(via
 		(at 2038.55 550.47)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "2df3cfaa-ea96-4020-82d9-ed7844be5a80")
 	)
 	(via
 		(at 2057.25 629.6)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "2eaca841-8710-40c9-a133-283b9dc90663")
@@ -83992,32 +83538,32 @@
 	)
 	(via
 		(at 1944.4 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "34548095-ddf0-4e93-84e7-4ff410473df6")
 	)
 	(via
-		(at 2004.95 610.9)
-		(size 0.6)
-		(drill 0.3)
+		(at 2005.65 609.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "34c2fda5-9051-423d-84de-cec2f6453713")
 	)
 	(via
 		(at 1849.05 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "378d3643-5332-4249-9c75-94e90e27bcd5")
 	)
 	(via
 		(at 2075.95 628.95)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "37bccddf-09ab-4ecd-95e6-eeac1ec91c42")
@@ -84039,33 +83585,33 @@
 		(uuid "4107058f-a580-4559-bb80-d86b1b5b28a2")
 	)
 	(via
-		(at 2069.1 610.85)
-		(size 0.6)
-		(drill 0.3)
+		(at 2069.2 608.9)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "4dace81e-a04f-4cc9-b024-5c1c94169d38")
 	)
 	(via
-		(at 1871.25 610.9)
-		(size 0.6)
-		(drill 0.3)
+		(at 1871.65 609.1)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "4e98c73a-2258-4d55-bd48-42984a868991")
 	)
 	(via
 		(at 1831.5 629.05)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "50d430b6-d9ac-42bb-a987-44c9e575b5c5")
 	)
 	(via
-		(at 1881.05 590.66)
-		(size 0.6)
-		(drill 0.3)
+		(at 1881.9 589.9)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "5118f5dd-179e-4da8-8fdd-8ed694cd63e7")
@@ -84087,17 +83633,17 @@
 		(uuid "5728f098-0a5e-48a0-849f-2b8944164d03")
 	)
 	(via
-		(at 1995.55 591.86)
-		(size 0.6)
-		(drill 0.3)
+		(at 1996.45 590.1)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "591ae687-69a2-4daf-ad98-d667103bbafc")
 	)
 	(via
-		(at 1957.1 590.66)
-		(size 0.6)
-		(drill 0.3)
+		(at 1957.75 589.45)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "5eda61e9-5a39-4c73-9890-7065c6d549d7")
@@ -84112,64 +83658,64 @@
 	)
 	(via
 		(at 1854.65 629.25)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "613639e0-1db1-493b-ba66-d7cc3c013723")
 	)
 	(via
-		(at 1890.75 610.91)
-		(size 0.6)
-		(drill 0.3)
+		(at 1890.9 609.35)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "61ee9870-e69d-49de-92e0-1eda3deefd2a")
 	)
 	(via
 		(at 1981.55 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "6475b12e-c060-4bc8-8d40-397b1d4567f9")
 	)
 	(via
 		(at 2034.1 589.35)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "64f86b78-6bc7-4eea-9736-deeb3e876d76")
 	)
 	(via
 		(at 2114.15 609.45)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "66eaf06b-e325-4729-a92a-79ff39535d14")
 	)
 	(via
 		(at 1878.05 629.35)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "67ea7114-62f9-498c-a62a-43b2dd9e8dd2")
 	)
 	(via
 		(at 2020.3 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "6dc5427e-75c2-431c-9e8e-f76f911d9daa")
 	)
 	(via
 		(at 1829.55 552.35)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "6ea0845d-aea6-4f54-8ed4-f284631232cb")
@@ -84184,56 +83730,64 @@
 	)
 	(via
 		(at 1964.8 628.85)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "7461b08a-b3b2-4ddb-ae30-48ee24ba3d31")
 	)
 	(via
-		(at 2095.3 610.91)
-		(size 0.6)
-		(drill 0.3)
+		(at 1876.839466 622.958521)
+		(size 1)
+		(drill 0.8)
+		(layers "F.Cu" "B.Cu")
+		(net "+5V")
+		(uuid "74dd9388-d147-41f8-ad30-e7b5ad0ca352")
+	)
+	(via
+		(at 2095.55 609.6)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "77a9cce5-9c10-4a60-90bc-f7ea1198b3e4")
 	)
 	(via
 		(at 1909.95 610.91)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "78432ab3-10bb-45d5-98ef-45b48d086384")
 	)
 	(via
-		(at 1928.6 610.91)
-		(size 0.6)
-		(drill 0.3)
+		(at 1928.65 609.15)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "82a0f168-e2fc-4798-8f6c-f6ebda4a1255")
 	)
 	(via
 		(at 1887.7 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "83dd8a42-981e-4f1c-ba7b-1a36f6efcfad")
 	)
 	(via
 		(at 2014.7 590.66)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "86a196b6-a7c4-409f-b483-f2982ec17af2")
 	)
 	(via
-		(at 1976.65 590.65)
-		(size 0.6)
-		(drill 0.3)
+		(at 1977.45 589.85)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "8ad425a6-8ef1-4dc9-8c79-dc191c1ab870")
@@ -84248,46 +83802,46 @@
 	)
 	(via
 		(at 1973.65 628.15)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "9328e59a-d6ea-45c3-a4cb-7b79a1491f6b")
 	)
 	(via
 		(at 2114.5 629.1)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "9473a3e6-e080-45ec-8ec8-1476b512f3a4")
 	)
 	(via
-		(at 2043.15 610.9)
-		(size 0.6)
-		(drill 0.3)
+		(at 2043.85 609.2)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "9f41717e-01b5-4f6b-bf61-37dc1e60b915")
 	)
 	(via
 		(at 1839.65 597.45)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "a1b90825-7484-4460-a009-ce5e9ca70c6f")
 	)
 	(via
 		(at 1925.2 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "a4c4eb1c-3ad2-42f4-acef-fcf70d6a08f5")
 	)
 	(via
-		(at 1877.15 572.91)
+		(at 1877.15 570.25)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -84296,8 +83850,8 @@
 	)
 	(via
 		(at 2095.55 629.15)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "a6ee2eb1-21ca-464c-9329-01cb7ecd660b")
@@ -84311,9 +83865,9 @@
 		(uuid "a87442bd-e0ac-494b-8db9-f2238c3dcd94")
 	)
 	(via
-		(at 2024.05 611.009999)
-		(size 0.6)
-		(drill 0.3)
+		(at 2024.25 609.2)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "a93c5161-8a3c-40ab-a282-eb313d3e6999")
@@ -84328,24 +83882,24 @@
 	)
 	(via
 		(at 2001.2 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "ae33f8f0-7e11-4ff1-ba60-df86d4995cf1")
 	)
 	(via
 		(at 2039.05 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "ae7e8cf9-4886-480c-90fc-f7b2a21f941f")
 	)
 	(via
-		(at 1967.05 610.91)
-		(size 0.6)
-		(drill 0.3)
+		(at 1967.6 609.35)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "b272098a-3f0f-4752-b589-2cfe77b1ad0e")
@@ -84359,25 +83913,25 @@
 		(uuid "b70c205f-c298-4b28-96a5-0551fa559a0d")
 	)
 	(via
-		(at 1947.8 610.9)
-		(size 0.6)
-		(drill 0.3)
+		(at 1948.2 609.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "b76ad0ad-1f09-413a-abfc-8ce875d83280")
 	)
 	(via
 		(at 1830.4 567.6)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "b9e6a619-eeca-4660-ab0f-7dea243913d4")
 	)
 	(via
 		(at 2018.55 629.65)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "bc1823b4-50b0-4536-a2d7-6fb8bd0dbe3b")
@@ -84392,24 +83946,24 @@
 	)
 	(via
 		(at 2037.8 629.65)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "c093ead2-b88f-4df4-a5eb-58deafeff3f5")
 	)
 	(via
 		(at 2096.35 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "c34d6acc-5e60-4a72-890a-8110333de1cd")
 	)
 	(via
-		(at 1840.9 608.9)
-		(size 0.6)
-		(drill 0.3)
+		(at 1840.9 610.2)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "c3d7abdd-ad33-4a71-aa30-882eb67a6747")
@@ -84424,8 +83978,8 @@
 	)
 	(via
 		(at 2058.05 531.42)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "c944d83a-3d38-49cd-9d95-9bc64d1555c8")
@@ -84447,57 +84001,57 @@
 		(uuid "ce922791-ae58-4971-8f7a-59b65868037c")
 	)
 	(via
-		(at 1985.65 610.9)
-		(size 0.6)
-		(drill 0.3)
+		(at 1986.3 609.5)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "d07bcf91-ee53-4c5b-9bd2-858e1a74bd85")
 	)
 	(via
 		(at 1949.8 628.8)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "d17d737e-0139-4603-a088-55bcf5e83f97")
 	)
 	(via
 		(at 1823.1 532.6)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "d44d37e3-6a59-4953-b8c2-a45d89f035be")
 	)
 	(via
 		(at 2086.865735 550.435735)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "d92c4843-2791-42b7-86d3-a8207f6fa813")
 	)
 	(via
 		(at 1836.05 590.8)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "de48080e-2236-4fba-8a24-e343a4f8ca3b")
 	)
 	(via
-		(at 2083.65 591.86)
-		(size 0.6)
-		(drill 0.3)
+		(at 2084.55 590.4)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "debb4f7d-5c10-4c19-906c-c3bdc3abbb70")
 	)
 	(via
-		(at 1938.75 591.86)
-		(size 0.6)
-		(drill 0.3)
+		(at 1940.1 589.45)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "df74ff05-ed6a-4074-b7c6-e9c56dec478e")
@@ -84511,9 +84065,9 @@
 		(uuid "e207b23b-3f3f-4d7f-bcdf-eeb8a23d73ba")
 	)
 	(via
-		(at 1862.15 591.8)
-		(size 0.6)
-		(drill 0.3)
+		(at 1862.25 590.25)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "e21d863d-f53c-44fa-b777-d919631423da")
@@ -84565,6 +84119,14 @@
 		(layer "B.Cu")
 		(net "+5V")
 		(uuid "04082cbe-a797-4f53-b21b-1f5c027db103")
+	)
+	(segment
+		(start 1882.75 623.85)
+		(end 1877.730945 623.85)
+		(width 0.7)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "12b039ae-9275-4e36-96a7-dc7494282355")
 	)
 	(segment
 		(start 1966.69 642.270661)
@@ -84647,6 +84209,22 @@
 		(uuid "d16cd481-2728-44a7-af68-0879a5ad9fcf")
 	)
 	(segment
+		(start 1888.4 628.8)
+		(end 1887.7 628.8)
+		(width 0.7)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "d57b68b9-28fe-4cdb-b5a5-868d2e260a3c")
+	)
+	(segment
+		(start 1887.7 628.8)
+		(end 1882.75 623.85)
+		(width 0.7)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "d5d566e3-43e2-4992-b2a1-92173f330469")
+	)
+	(segment
 		(start 1971.33 644.518529)
 		(end 1971.33 643.25)
 		(width 0.2)
@@ -84663,12 +84241,12 @@
 		(uuid "e9c4474d-06f5-422f-bdc1-4eed292ff8f2")
 	)
 	(segment
-		(start 2095.55 610.66)
-		(end 2095.3 610.91)
-		(width 0.5)
-		(layer "In1.Cu")
+		(start 1877.730945 623.85)
+		(end 1876.839466 622.958521)
+		(width 0.7)
+		(layer "B.Cu")
 		(net "+5V")
-		(uuid "005cd627-e9c4-4492-a5ea-e82f56a58e32")
+		(uuid "f86d2c69-d03b-4b7f-a9bc-24229bf35635")
 	)
 	(segment
 		(start 1867.35 550.47)
@@ -84687,14 +84265,6 @@
 		(uuid "0233ac3b-62f4-4988-9b66-1a4d1dd4eda3")
 	)
 	(segment
-		(start 2005.65 607.25)
-		(end 2005.65 610.2)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "038b0376-a65b-420d-9dd8-b6308186d751")
-	)
-	(segment
 		(start 2095.98 531.42)
 		(end 2111.67 531.42)
 		(width 0.5)
@@ -84703,20 +84273,20 @@
 		(uuid "050055dd-2e99-49ce-8eb6-3d52030c21e7")
 	)
 	(segment
-		(start 1890.9 610.76)
-		(end 1890.75 610.91)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "059912b2-7357-4e32-bd9a-600d74359d25")
-	)
-	(segment
 		(start 1853.2 622.869055)
 		(end 1876.75 622.869055)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "089ef8f5-c462-4551-8cf0-37046341b983")
+	)
+	(segment
+		(start 1840.9 608.9)
+		(end 1839.65 607.65)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "08dc3aad-1bd1-4255-b383-705fc79c2fb8")
 	)
 	(segment
 		(start 2011.2 570.61)
@@ -84743,6 +84313,14 @@
 		(uuid "0d8ed572-6642-4d48-8cc2-bb224ca0af75")
 	)
 	(segment
+		(start 2024.25 609.2)
+		(end 2024.25 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "0e34c5a4-8eda-4e5c-a5b5-1ac58683b313")
+	)
+	(segment
 		(start 2018.5 629.6)
 		(end 2018.55 629.65)
 		(width 0.5)
@@ -84751,12 +84329,12 @@
 		(uuid "0ef5157f-6d3e-4425-ae22-33cb7ca8d061")
 	)
 	(segment
-		(start 1928.65 610.86)
-		(end 1928.6 610.91)
+		(start 1928.65 609.15)
+		(end 1928.65 607.25)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "0ffb51c7-3cb0-4141-9346-8bd469804ae1")
+		(uuid "0f107061-e064-4c42-a57c-a2fc87924e9f")
 	)
 	(segment
 		(start 1963.85 622.869055)
@@ -84783,14 +84361,6 @@
 		(uuid "12409597-224b-4340-9407-449b32304a77")
 	)
 	(segment
-		(start 1862.25 587.05)
-		(end 1862.25 591.7)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "125616cc-8083-4dd2-b161-afc240074235")
-	)
-	(segment
 		(start 2097.8 622.869055)
 		(end 2095.5 625.169055)
 		(width 0.5)
@@ -84805,14 +84375,6 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "16f5b5d6-2b9e-4b99-a517-31d8fb4ea3d2")
-	)
-	(segment
-		(start 1957.75 590.01)
-		(end 1957.1 590.66)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "1735857b-28a0-461b-aae3-58479843e93b")
 	)
 	(segment
 		(start 1857.15 567.6)
@@ -84863,14 +84425,6 @@
 		(uuid "1de10db1-ab12-47d9-89c7-6a0a81c51567")
 	)
 	(segment
-		(start 1876.55 567.6)
-		(end 1877.15 568.2)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "1e808c14-fec4-4aed-9006-f264f3106d7d")
-	)
-	(segment
 		(start 2043.85 607.25)
 		(end 2069.2 607.25)
 		(width 0.5)
@@ -84909,6 +84463,14 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "213288c5-9873-46af-88b3-bb75eddebf10")
+	)
+	(segment
+		(start 1915.55 569)
+		(end 1916.95 567.6)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "213e3269-34d3-47ef-84b0-150725a3a5bd")
 	)
 	(segment
 		(start 2095.5 625.169055)
@@ -84951,20 +84513,20 @@
 		(uuid "24e87b48-44c7-4d25-8aec-a4677517eeda")
 	)
 	(segment
-		(start 1986.3 610.25)
-		(end 1985.65 610.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "2501b3fa-7e15-46e6-96e6-b58627ff771e")
-	)
-	(segment
 		(start 1839.65 597.45)
 		(end 1839.65 607.25)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "25217413-904e-4c09-8c67-b6dc1987f64f")
+	)
+	(segment
+		(start 2095.55 609.6)
+		(end 2095.55 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "267a5bf2-34a4-4f78-a9ed-7bd2c86de597")
 	)
 	(segment
 		(start 2047.75 567.6)
@@ -84989,6 +84551,14 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "29e6597f-cb28-49c2-b11d-3b650902c9be")
+	)
+	(segment
+		(start 1901.15 589.85)
+		(end 1901.15 587.05)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "2b052f14-9cc8-40d0-833a-82fa5859bc46")
 	)
 	(segment
 		(start 1905.8 531.42)
@@ -85023,28 +84593,12 @@
 		(uuid "2d40e206-f444-45a8-8bb0-6016a1a06288")
 	)
 	(segment
-		(start 1967.6 607.25)
-		(end 1967.6 610.36)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "2ed920d5-2d84-49dd-80ba-1cfd479fa284")
-	)
-	(segment
 		(start 1996.45 587.05)
 		(end 2015.3 587.05)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "313e4863-6019-48ad-a33d-f3bfa7cdfb28")
-	)
-	(segment
-		(start 2085 587.05)
-		(end 2085 590.51)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "318afbae-f998-4bd5-a6eb-628f624c7544")
 	)
 	(segment
 		(start 2076.4 622.869055)
@@ -85079,6 +84633,14 @@
 		(uuid "32deed3c-37dc-4b69-9920-3cb246cdf257")
 	)
 	(segment
+		(start 1890.9 609.35)
+		(end 1890.9 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "346750b0-8358-4f73-b0c6-501692c2314b")
+	)
+	(segment
 		(start 1857.15 567.6)
 		(end 1876.55 567.6)
 		(width 0.5)
@@ -85087,36 +84649,12 @@
 		(uuid "3504ed17-25f9-42d8-af73-25411859238d")
 	)
 	(segment
-		(start 2043.85 607.25)
-		(end 2043.85 610.2)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "3565a267-7743-457d-b195-e875bdd2e3e1")
-	)
-	(segment
-		(start 1901.15 590.1)
-		(end 1900.7 590.55)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "35d27cef-2eec-4079-94a9-ee8644a37451")
-	)
-	(segment
 		(start 1848.2 550.47)
 		(end 1867.35 550.47)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "377da4f7-2a1d-4d68-b05f-cc598a1da053")
-	)
-	(segment
-		(start 1940.1 590.51)
-		(end 1938.75 591.86)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "38088a9b-eb76-446a-ba6d-211c35b2e740")
 	)
 	(segment
 		(start 1896 567.6)
@@ -85135,28 +84673,12 @@
 		(uuid "39d31bc8-400a-44c2-961f-f612d1aa86a1")
 	)
 	(segment
-		(start 1916.95 567.6)
-		(end 1915.55 569)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "3a710a3b-5629-4e49-b83b-3c3b3882e9c7")
-	)
-	(segment
 		(start 1924.6 552.16)
 		(end 1924.2 552.56)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "3afb7a12-cc1d-419c-abdb-b8e2a89a3c33")
-	)
-	(segment
-		(start 2069.2 607.25)
-		(end 2069.2 610.75)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "3df6d879-a57c-4e1f-ab9d-8ab2d1488005")
 	)
 	(segment
 		(start 1896 572.25)
@@ -85223,14 +84745,6 @@
 		(uuid "48f0cbe2-8413-4c7c-a7f0-73706fa50191")
 	)
 	(segment
-		(start 1890.9 607.25)
-		(end 1890.9 610.76)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "494d7141-eed7-4413-a799-8c2511d5600b")
-	)
-	(segment
 		(start 1933.7 567.6)
 		(end 1952.75 567.6)
 		(width 0.5)
@@ -85279,12 +84793,12 @@
 		(uuid "4e09f628-ba88-41f4-bf54-171427ed2115")
 	)
 	(segment
-		(start 1915.55 569)
-		(end 1915.55 573.07)
+		(start 1948.2 609.3)
+		(end 1948.8 608.7)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "4f160276-71ac-4bf0-8126-06f6bcd91aac")
+		(uuid "4f283eff-4f05-4411-8230-25d87679d566")
 	)
 	(segment
 		(start 2053.55 587.05)
@@ -85407,6 +84921,14 @@
 		(uuid "5c47998d-0dfc-4b16-8ea9-483e182a5639")
 	)
 	(segment
+		(start 1948.8 608.7)
+		(end 1948.8 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "5c7c1c19-ba60-41c7-913c-8869899eb4bd")
+	)
+	(segment
 		(start 2067 571.41)
 		(end 2066.8 571.61)
 		(width 0.5)
@@ -85447,6 +84969,14 @@
 		(uuid "5f8f6ff3-0b6e-4eea-9389-305ad444199d")
 	)
 	(segment
+		(start 1957.75 589.45)
+		(end 1957.75 587.05)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "5fd23047-cc33-47cc-82da-af7952ef7846")
+	)
+	(segment
 		(start 1905.1 552.46)
 		(end 1905 552.56)
 		(width 0.5)
@@ -85463,36 +84993,12 @@
 		(uuid "608e598d-3dac-4f9d-813c-875fa0410106")
 	)
 	(segment
-		(start 1977.45 589.85)
-		(end 1976.65 590.65)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "61cb796f-25bd-4c8b-9d4c-45ff3771588f")
-	)
-	(segment
-		(start 1977.45 587.05)
-		(end 1977.45 589.85)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "620e2417-ea0a-41ba-ab0c-3e1f02cf3ba6")
-	)
-	(segment
 		(start 1857.15 571.6)
 		(end 1858.45 572.9)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "6220f918-5bc4-4d5c-b409-b5d3c6c68d19")
-	)
-	(segment
-		(start 1881.45 590.26)
-		(end 1881.05 590.66)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "62a817bf-c076-4dc5-bed3-f30a83dd5d27")
 	)
 	(segment
 		(start 1853.2 627.8)
@@ -85503,12 +85009,12 @@
 		(uuid "672c4649-0cae-45d0-8db4-15aebcddc489")
 	)
 	(segment
-		(start 2024.25 607.25)
-		(end 2024.25 610.809999)
+		(start 2043.85 609.2)
+		(end 2043.85 607.25)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "6883be84-584a-49a4-bbdd-ac48f61bb59e")
+		(uuid "684fd739-bbb7-4b22-a4c7-21c2528d5423")
 	)
 	(segment
 		(start 1919.85 587.05)
@@ -85543,20 +85049,12 @@
 		(uuid "6e5045ff-a0a4-441b-9779-4a1733cc141a")
 	)
 	(segment
-		(start 1986.3 607.25)
-		(end 1986.3 610.25)
+		(start 1977.45 589.85)
+		(end 1977.45 587.05)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "7303f225-504a-4a03-a9de-0b6ce9f3eb09")
-	)
-	(segment
-		(start 1996.45 587.05)
-		(end 1996.45 590.96)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "74621bc0-011b-4661-a565-6689594766f0")
+		(uuid "6fa0ad36-0584-489c-8f74-3d9d4ba6484b")
 	)
 	(segment
 		(start 1971.7 567.6)
@@ -85575,12 +85073,12 @@
 		(uuid "74a8f77e-d200-4679-bc95-a49b26681bd4")
 	)
 	(segment
-		(start 2085 590.51)
-		(end 2083.65 591.86)
+		(start 1840.9 610.2)
+		(end 1840.9 608.9)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "76f4a41b-bbc2-464e-aaed-647105d365fa")
+		(uuid "7b55953c-d14c-4f35-9f17-42bdaec7cadd")
 	)
 	(segment
 		(start 1943.4 550.47)
@@ -85589,6 +85087,14 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "7bbf3013-da64-4d21-a3ae-a317d6d6352a")
+	)
+	(segment
+		(start 1881.45 589.45)
+		(end 1881.45 587.05)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "7ce93b1f-93e3-4846-98a8-5312d068dc2d")
 	)
 	(segment
 		(start 2067 567.6)
@@ -85613,14 +85119,6 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "8162be4c-401f-4172-bafa-e97fcf161d86")
-	)
-	(segment
-		(start 1877.15 568.2)
-		(end 1877.15 572.91)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "81d16edb-4bac-4d49-ba63-71d3c99d6bd4")
 	)
 	(segment
 		(start 1963.85 622.869055)
@@ -85655,20 +85153,20 @@
 		(uuid "8939387f-4e00-4149-a1d2-79eda62b732c")
 	)
 	(segment
-		(start 1996.45 590.96)
-		(end 1995.55 591.86)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "89ae5c93-e133-488e-ba7d-323f9626da56")
-	)
-	(segment
 		(start 2011.2 567.6)
 		(end 2011.2 570.61)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "89da7d70-0f09-410b-8b93-ef39bfd78adc")
+	)
+	(segment
+		(start 1915.55 573.07)
+		(end 1915.55 569)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "8a7bf173-0318-49cf-a7ac-e1f8a5b44678")
 	)
 	(segment
 		(start 2097.8 622.869055)
@@ -85695,14 +85193,6 @@
 		(uuid "8d3de904-d37a-4e56-8fc9-ab448240fca9")
 	)
 	(segment
-		(start 1862.25 591.7)
-		(end 1862.15 591.8)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "8e79c4fe-65dd-4d45-98d4-665abad3190b")
-	)
-	(segment
 		(start 2000.5 550.47)
 		(end 2019.45 550.47)
 		(width 0.5)
@@ -85717,14 +85207,6 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "90e9f2d8-73c7-4a0d-8b76-6d88e38834f6")
-	)
-	(segment
-		(start 1871.65 610.5)
-		(end 1871.25 610.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "92d4294f-be9f-457c-bcec-6f24af4dc71b")
 	)
 	(segment
 		(start 1848.2 550.47)
@@ -85743,36 +85225,20 @@
 		(uuid "945d1c66-ddeb-4926-ad51-e1da9ea918df")
 	)
 	(segment
-		(start 1967.6 610.36)
-		(end 1967.05 610.91)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "9587f023-237c-4b2f-9d73-0bbf37984ad5")
-	)
-	(segment
-		(start 2043.85 610.2)
-		(end 2043.15 610.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "980bc005-b85a-4980-b6eb-4aee158884f5")
-	)
-	(segment
-		(start 1948.8 607.25)
-		(end 1948.8 609.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "98272bc6-91c6-41ae-b787-dc3d25ed5aaf")
-	)
-	(segment
 		(start 1990.65 570.5)
 		(end 1990.65 572.81)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "989ed45e-cd51-4705-8bd5-cecc563aa105")
+	)
+	(segment
+		(start 1986.3 609.5)
+		(end 1986.3 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "99298594-c7fe-4ba7-a167-72d4674d3ca5")
 	)
 	(segment
 		(start 1867.35 553.26)
@@ -85807,6 +85273,14 @@
 		(uuid "9ba85618-340c-4565-9d52-30bd54c3e00a")
 	)
 	(segment
+		(start 1839.65 607.65)
+		(end 1839.65 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "9ea81785-1f9b-42e1-8f74-e096b48c97f7")
+	)
+	(segment
 		(start 1972.7 622.869055)
 		(end 1972.7 627.2)
 		(width 0.5)
@@ -85821,6 +85295,14 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "9f599113-e288-41ea-a5f7-82e9d66ff80a")
+	)
+	(segment
+		(start 2084.55 590.4)
+		(end 2085 589.95)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "9f7749e8-3f8e-46bc-8b33-4363c93662e2")
 	)
 	(segment
 		(start 1981.3 553.61)
@@ -85855,12 +85337,12 @@
 		(uuid "a53e64dc-ed25-4fcb-a8ec-abefbfa59455")
 	)
 	(segment
-		(start 2069.2 610.75)
-		(end 2069.1 610.85)
+		(start 1996.45 590.1)
+		(end 1996.45 587.05)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "a7c366a9-c6d4-4c65-b5c0-0b755ca72ace")
+		(uuid "a7f2d271-78a6-411f-a418-e71f620d254f")
 	)
 	(segment
 		(start 1981.3 550.57)
@@ -85895,6 +85377,14 @@
 		(uuid "af4bf58a-6c0f-47f3-a2bd-2f529d0097d4")
 	)
 	(segment
+		(start 2069.2 608.9)
+		(end 2069.2 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "b2c16883-e103-4d0c-b320-199e1f172524")
+	)
+	(segment
 		(start 2000.5 553.45)
 		(end 2000.15 553.8)
 		(width 0.5)
@@ -85927,12 +85417,12 @@
 		(uuid "b55df27f-d292-43f3-986f-00f88a6626a8")
 	)
 	(segment
-		(start 1871.65 607.25)
-		(end 1871.65 610.5)
+		(start 2085 589.95)
+		(end 2085 587.05)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "b6289474-1ed7-4703-91d2-4765d611e2fc")
+		(uuid "b67de400-298c-485a-af3b-79012ec27b32")
 	)
 	(segment
 		(start 2029.8 567.6)
@@ -85949,6 +85439,14 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "bc711a27-b4a1-4649-9132-2dc5546bfb77")
+	)
+	(segment
+		(start 2005.65 609.3)
+		(end 2005.65 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "bd238abb-cf9a-4e38-b7c1-af247eb00146")
 	)
 	(segment
 		(start 1848.2 552.3)
@@ -85973,6 +85471,14 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "bebafc3e-7411-4ba3-80f9-4c822c3176e7")
+	)
+	(segment
+		(start 1871.65 609.1)
+		(end 1871.65 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "bfabb677-e2bb-43b8-b2ce-6cf528663809")
 	)
 	(segment
 		(start 2020.3 531.42)
@@ -86079,28 +85585,20 @@
 		(uuid "d210cd63-f1b1-44d9-8718-3c1c06e0c8a8")
 	)
 	(segment
-		(start 1881.45 587.05)
-		(end 1881.45 590.26)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "d412abb5-0d48-4fe3-917a-4b91784edbdc")
-	)
-	(segment
-		(start 1928.65 607.25)
-		(end 1928.65 610.86)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "d44b86b3-b3f2-4889-a923-8810850ff86f")
-	)
-	(segment
 		(start 2034.6 587.05)
 		(end 2053.55 587.05)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "d4babf36-ffd0-440a-80aa-840aac0b61c7")
+	)
+	(segment
+		(start 1881.9 589.9)
+		(end 1881.45 589.45)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "d6f7e33b-852c-4380-bb01-069ac7ae89ec")
 	)
 	(segment
 		(start 1924.6 550.47)
@@ -86111,20 +85609,28 @@
 		(uuid "d79f3cb3-4020-43b9-81d4-d9a69e5e82c3")
 	)
 	(segment
-		(start 2024.25 610.809999)
-		(end 2024.05 611.009999)
+		(start 1877.15 570.25)
+		(end 1877.15 568.2)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "d8c54644-3529-4b18-b1be-6a5d21927e7f")
+		(uuid "daa68b05-18b3-4537-bec0-b25dd8e54075")
 	)
 	(segment
-		(start 2095.55 607.25)
-		(end 2095.55 610.66)
+		(start 1862.25 590.25)
+		(end 1862.25 587.05)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
-		(uuid "da2176bc-fe88-4221-99c8-d34ac390e95f")
+		(uuid "dc0cf165-9e9a-4377-b00a-e9ce94540bd4")
+	)
+	(segment
+		(start 1940.1 589.45)
+		(end 1940.1 587.05)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "dc443051-0f68-4d02-952d-cde8dff7056a")
 	)
 	(segment
 		(start 2018.5 622.869055)
@@ -86133,14 +85639,6 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "dd5358d9-5727-43b4-8e43-50714afa1a80")
-	)
-	(segment
-		(start 1839.65 607.65)
-		(end 1840.9 608.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "e00d17e5-9144-46c2-a0c9-602601cd7bbf")
 	)
 	(segment
 		(start 2095.5 629.1)
@@ -86175,28 +85673,12 @@
 		(uuid "e47f65d6-6b1e-40d7-89c7-c781ac73c2b2")
 	)
 	(segment
-		(start 2005.65 610.2)
-		(end 2004.95 610.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "e56d7142-b376-4212-9376-d8d252790b9f")
-	)
-	(segment
 		(start 1943.4 553.51)
 		(end 1943.15 553.76)
 		(width 0.5)
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "e587af59-dd3d-4086-8612-34fe0e33f901")
-	)
-	(segment
-		(start 1839.65 607.25)
-		(end 1839.65 607.65)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "e7087c83-26a7-4dc5-990c-0621d9f05002")
 	)
 	(segment
 		(start 2069.2 607.25)
@@ -86223,14 +85705,6 @@
 		(uuid "e9a5257b-a648-43e2-bb7d-9aac8a367573")
 	)
 	(segment
-		(start 1948.8 609.9)
-		(end 1947.8 610.9)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "eb710c9c-94b5-474c-b13e-945326facbda")
-	)
-	(segment
 		(start 2015.3 587.05)
 		(end 2034.6 587.05)
 		(width 0.5)
@@ -86253,14 +85727,6 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "eeba26bb-9b1e-44e8-907c-e833939e250d")
-	)
-	(segment
-		(start 1940.1 587.05)
-		(end 1940.1 590.51)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "ef96334d-240a-44d2-b375-68cb1d789982")
 	)
 	(segment
 		(start 1837.15 577.9)
@@ -86287,14 +85753,6 @@
 		(uuid "f5f12b04-9db1-4b84-9186-2b304cdf3d9c")
 	)
 	(segment
-		(start 1901.15 587.05)
-		(end 1901.15 590.1)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "f6548a5d-a718-4ca0-b051-ca1711835638")
-	)
-	(segment
 		(start 1967.6 607.25)
 		(end 1986.3 607.25)
 		(width 0.5)
@@ -86309,6 +85767,22 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "f7ce54e5-c786-49d5-9c4b-1b95a65594fc")
+	)
+	(segment
+		(start 1967.6 609.35)
+		(end 1967.6 607.25)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "f858d756-96eb-495b-b3a5-9de217239a0a")
+	)
+	(segment
+		(start 1877.15 568.2)
+		(end 1876.55 567.6)
+		(width 0.5)
+		(layer "In1.Cu")
+		(net "+5V")
+		(uuid "f85d523b-acb1-4436-80f5-4f6a8d6e965a")
 	)
 	(segment
 		(start 2047.75 567.6)
@@ -86357,14 +85831,6 @@
 		(layer "In1.Cu")
 		(net "+5V")
 		(uuid "fe7be178-f402-4d30-b1f2-12b3019078f6")
-	)
-	(segment
-		(start 1957.75 587.05)
-		(end 1957.75 590.01)
-		(width 0.5)
-		(layer "In1.Cu")
-		(net "+5V")
-		(uuid "fe878f68-c4a8-4ee4-baef-57af637c4c77")
 	)
 	(segment
 		(start 2047.75 571.36)
@@ -94264,8 +93730,8 @@
 	)
 	(via
 		(at 1907.95 610.55)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.8)
+		(drill 0.7)
 		(layers "F.Cu" "B.Cu")
 		(net "Net-(L64-DOUT)")
 		(uuid "076a2121-e9bd-4c4e-bc37-ce5a6e8795e2")
@@ -104605,6 +104071,150 @@
 		(layer "B.Cu")
 		(net "/D-")
 		(uuid "fc443cf0-db2d-49a1-a3f6-a626bcf2ff05")
+	)
+	(segment
+		(start 1898.405076 631.126482)
+		(end 1904.701532 637.422938)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "33ff4b3d-afe7-43b2-86d4-6bd051b1745c")
+	)
+	(segment
+		(start 1891.5 631.46)
+		(end 1891.833518 631.126482)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "9516aba6-a583-4663-bbc1-bf07963a34b5")
+	)
+	(segment
+		(start 1890.6 625.2)
+		(end 1890.6 626.75)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "af4b4209-f92f-4633-905e-88177c7a88de")
+	)
+	(segment
+		(start 1904.701532 638.098468)
+		(end 1901.85 640.95)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "d956bdef-6762-4ebd-92ae-0846cdf63f82")
+	)
+	(segment
+		(start 1891.833518 631.126482)
+		(end 1898.405076 631.126482)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "da3eb935-524b-4ec4-b457-551761e237db")
+	)
+	(segment
+		(start 1904.701532 637.422938)
+		(end 1904.701532 638.098468)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "edc64a34-1217-4f8c-a152-03b0abadc48b")
+	)
+	(segment
+		(start 1890.6 626.75)
+		(end 1890.95 627.1)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/3.3v")
+		(uuid "fecefe17-76a3-4539-af73-7628a6e0b96d")
+	)
+	(via
+		(at 1891.5 631.46)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/3.3v")
+		(uuid "248afbf3-0677-4f44-961a-82dfd35a376e")
+	)
+	(via
+		(at 1901.85 640.95)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/3.3v")
+		(uuid "39d2d125-c40d-48f1-9bab-754eb730a0b7")
+	)
+	(via
+		(at 1890.95 627.1)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/3.3v")
+		(uuid "3a1681eb-a11e-4ebe-b92f-b339eb666026")
+	)
+	(via
+		(at 1890.6 625.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/3.3v")
+		(uuid "a0d60d3d-c480-4eb5-baaf-aae8d674ac7b")
+	)
+	(segment
+		(start 1890.95 627.1)
+		(end 1890.95 628.55)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "192bee9d-d321-487f-8de5-0b015d106127")
+	)
+	(segment
+		(start 1890.7 625.1)
+		(end 1890.6 625.2)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "361243d2-bb48-4291-b8e1-23022d00a5cc")
+	)
+	(segment
+		(start 1890.7 628.8)
+		(end 1890.7 630.66)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "38f45435-0a20-4897-90f2-092d54eec2f8")
+	)
+	(segment
+		(start 1890.7 630.66)
+		(end 1891.5 631.46)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "3bc972d0-adb6-4b1d-984f-5764fd09707d")
+	)
+	(segment
+		(start 1901.85 640.95)
+		(end 1899.7 640.95)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "515a9bc4-e195-4e59-bf3c-7fad6b672f0e")
+	)
+	(segment
+		(start 1890.95 628.55)
+		(end 1890.7 628.8)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "930ef113-1e5e-4a63-bf99-b2b039ac06f4")
+	)
+	(segment
+		(start 1890.7 622.5)
+		(end 1890.7 625.1)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "/3.3v")
+		(uuid "d421555b-d55b-4940-9824-9d009f75ad12")
 	)
 	(zone
 		(net "GND")

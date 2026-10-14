@@ -279,10 +279,26 @@ now gonna start designing the 3d model , wait maybe tomorrow not now .
 
 **Total time spent: 2 hours**
 
-# Oct 13 
+# Oct 14
 
-gonna add more sub its js a piece of shit for now to save my streak lol , i will definately change it on next commit , or del  it 
+so today i js realized theres a mistake in my design , I CANT FUCKING USE 5v DIRECTLY ON ESP , anyways gonna put a ams1117 for it and done nothing else as I KNOW WHAT I HAVE GOT .
 
-![1](assets/allr.png)
+anyways lets use ams1117
 
-**Total time spent: 1.67 hours**
+![](assets/ams1117.png)
+
+this will probably do the work i think so 
+
+ok so i was wasting time on reading datasheet's ref voltage for the ams but i then realized why it is called ams1117-3.3 not ams1117 configureable ldo . ITS PRE CONFIGURED FOR 3.3v and we can change tht but why change? 
+
+ok fine i fixed it real fast maybe i am flash? 
+
+![](assets/ams.png)
+
+ok made the via's of power rail bigger at last section bec res spikes but with bigger vias more parallel and thts wht i think done anyways added the ams too
+
+![](assets/ams-pcb.png)
+
+and fabricated the pcb .
+
+**Total time spent: 1 hours**
