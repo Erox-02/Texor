@@ -302,3 +302,12 @@ ok made the via's of power rail bigger at last section bec res spikes but with b
 and fabricated the pcb .
 
 **Total time spent: 1 hours**
+
+# Oct 15
+
+ok so this is a commit frm my phone , i am doin it js because i wanna save my streak , i will delete it eventually 
+
+![](assets/ams.png)
+
+
+**Total time spent: 1 hours**
