@@ -303,7 +303,7 @@ and fabricated the pcb .
 
 **Total time spent: 1 hours**
 
-# Oct 31
+# Nov 1
 
 ok so this is a commit frm my phone , i am doin it js because i wanna save my streak , i will delete it eventually 
 
